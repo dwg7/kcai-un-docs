@@ -26,6 +26,11 @@ FAMILY = """case
   when id ilike 'S/INF%' then 'S/INF' else 'other' end"""
 
 
+def normalize_symbol(sym):
+    """記号の正規化（空白を除き、大文字にする）。SQL の upper(regexp_replace(id,'\\s','','g')) と同じ規則。"""
+    return re.sub(r"\s", "", sym).upper()
+
+
 def connect(path, keep_vol=False):
     con = duckdb.connect()
     vol = "" if keep_vol else "and id not ilike '%vol%'"
