@@ -72,7 +72,7 @@ finding:
 
 ## 確かめた度合い
 
-- `read-official`: A/80/798 の上の各項（第 4・6・10・44・46〜48・57・59・62 項）は、公式サイトの PDF を読んだ。語の不在（GIS、geospatial、open source、SAGE、Unite Aware）は、同じ PDF の全文検索で 0 件を確かめた。A/71/19、A/72/19、A/80/19 などの項も同様。
+- `read-official`: A/80/798 の上の各項（第 4・6・10・44・46〜48・57・59・62 項）は、公式サイトの PDF を読んだ。語の不在（GIS、geospatial、mapping、satellite、open source、SAGE、Unite Aware）は、同じ PDF の全文検索で 0 件を確かめた（`geographic` は「地理的代表性」の文脈で 1 件、`map` は「ロードマップ」で 1 件だけ）。A/71/19、A/72/19、A/80/19 などの項も同様。
 - `read-only`（二次資料）: UN Open GIS Initiative の目的、開始年、DWG の構造、DWG 7 の説明は FOSS4G の要旨による。
 - **推論**: 「影響の可能性」の表は、文書の記述からの推論で、実際の影響は未確認。
 - **届かなかった**: UN Open GIS Initiative の公式サイト、DPO・DOS の技術戦略文書（peacekeeping.un.org は HTTP 403）。
