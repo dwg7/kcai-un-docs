@@ -76,3 +76,22 @@
 - S/2021/1110 は SAGE を第 23 項の 1 文だけで名指す。第 III 節 C「民間人の活動の管理」の冒頭近くにあり、件数 989→343 への但し書き。図・表・出典表記はない。S/2020/952 は `geospatial` 1 件（第 39 項）。S/2021/843 は 1 件（第 32 項、EU と米国の二国間支援による画像）。S/2023/3 は SAGE も `geospatial` も無く、行方不明者委員会の Web 型 GIS の 1 文のみ。S/PV.9039 は `geospatial` が 0 件で、ディカルロ氏が `geographic information system` に触れ、インドが Unite Aware を挙げた。
 - 修正点: `sage-situational-awareness-geospatial-enterprise` の「見直しが差の一因かもしれない」は、原文の "may partly explain"（一部）より強い。
 - 未完了: 同種報告との比較（S/2019/787、S/2020/938、S/2020/476、S/2021/635、S/2022/533 は読んでいない）。S/2020/952 の後半、S/2021/843 の第 59 項、S/2023/3 の第 50〜51 項は流し読みで未確認。S/PV.9039 と S/PV.8838 などの同種会合の比較。
+
+### UNLB の GIS センター提案（`unlb-gis-centre-proposal-2006-origin-and-considerations`）と A/63/824（`a-63-824-annex-iii-para-11-gis-centre-direction`）
+- 2006 年: 決議 60/267 第 3 項は GIS センターの提案に「留意」しただけ（承認は 61/277 の P-4 センター長ほか）。提案は事務総長報告 A/60/715 第 9〜10 項。起草部署は文面で特定できない（本文に DPKO が提案と書く箇所はある。課の特定は推測）。イタリアなど加盟国の支持の明記は読んだ文書に無い。
+- ACABQ A/60/787 第 29・31 項は、費用便益分析と、現場・基地・本部の責任分担の明確化を要求。重複の懸念は 2007 年の A/61/852/Add.14 第 28〜31 項（DPKO は重複しないと説明、計画を要求、臨時の職を勧告）。
+- **訂正**: A/63/824 は UNGSC の報告ではなく、UNLB の 2009/10 年度予算。附属書 III 第 11 項は「GIS センターは UNLB が管理し、指示はニューヨークの DFS の地図課長から」と述べる。UNGSC の当初のコンセプトは、この文書からは読めない。依頼 7（UNGSC の当初構想）は、別の文書（A/64/ の事務総長報告、決議 64/269、A/62/ の現場支援戦略）で調べ直す必要がある。
+- 未着手: 上記の UNGSC 構想と ACABQ・加盟国の懸念、A/C.5/60/SR.65-66 と A/60/PV.92 のイタリアの発言、A/61/752 第 89〜93 項の通読、A/61/852/Add.14 第 32 項、61/277 で P-4 をポスト承認した理由、3 本目の踏み跡。
+
+### S/PV.4310（`s-pv-4310-cartographic-section-and-chief-cartographer`）
+- 「Chief Cartographer」と「Cartographic Unit」は S/PV.4310 に無い。地図課に触れるのは 2 か所で、ゲエノ事務次長の "the office of the Chief of the Cartographic Section" と、アニャビ事務次長補の "the Cartographic Section"。どちらも DPKO の職員の発言で、加盟国は触れていない。内容は、エチオピア・エリトリア国境委員会の後方支援費用を見積もるため、地図課長室の班がアスマラで現地調査中、という報告。任務の根拠として決議・報告の項を挙げる発言は無い。
+- un-docs の件数: 「Chief Cartographer」は S/PRST/2000/21、S/PV.4160、S/INF/56 の 3 件。「Cartographic Unit」は S/PV.4227 の 1 件。「Cartographic Section」は 8 件。「Geospatial Information Section」は 4 件。
+- 反映すべき訂正: `un-geospatial-organization-timeline` の 2001-04-19 の行は「未照合」でなく照合済み。役職名は "Chief of the Cartographic Section"。
+- 未着手: A/RES/69/308 の改称の理由（決議本文、第五委員会報告、ACABQ 報告、事務総長の予算案）、`a-res-69-308-renaming-cartographic-section`、`cartographic-section-ungis-ungsc-relationship-evolution`、決議 1177/1298/1344、S/PV.4227、S/PV.4160、S/2000/1194、S/PRST/2000/21 の用例の年表。
+
+### SAGE（`sage-in-security-council-discussions`、`sage-access-and-who-sees-it`、`sage-and-unite-aware-relationship`）
+- un-docs では、SAGE は「技術名」「運用の説明」「報告の数字への注意」として出るだけで、安保理が SAGE のデータを議論した例は無い。「理事国が SAGE にアクセスしている」は支持も否定もできない。アクセス規則を述べた文書は読んだ範囲に無く、「閉じたシステム」は確かめられていない。
+- 国連のファクトシート（2015 年ごろ。日付は PDF の属性のみ）は SAGE の想定利用者を JOC・JMAC・U2・U3・保安要員、共有先を「他ミッションと本部」と書く。特別委員会は A/71/19 第 53 項と A/72/19 第 52 項で SAGE と Open GIS を別々の取り組みとして並べただけで、両者の関係を述べる文書は無い。dwg7 のラジオシリーズの内容は与えられておらず、未確認。
+- SAGE と Unite Aware: 置き換えを述べたのは S/PV.9389 の UNMISS 部隊司令官 1 人。A/78/726 第 158 項は「Unite Aware SAGE」と書く。A/79/788 第 185 項は Unite Aware の計画が「SAGE データベースを使って」事件を記録すると書く。2025 年の研修資料は「UA Sage」を Unite Aware の応用の一つとする。「可視化の層」という整理は文書に合わない。
+- `sage-situational-awareness-geospatial-enterprise` に反映すべき訂正: S/2021/501 は S/PV ではなく議長（中国）の書簡。オランダの発言は付属文書 43 の書面声明。「Unite Aware を MINUSCA で始めた」は別の発言者（付属文書 2、運用支援局長）。インドの拠出 164 万ドルは付属文書 7。S/PV.9389 の発言者は「あるミッションの代表」でなく UNMISS の部隊司令官 Subramanian 中将（スイスの AI の質問への答え）。A/78/726 第 41・158・185 項、A/79/788 第 166・185 項、A/79/724 第 74 項を追記できる。
+- 未着手: 2026/27 年度の予算案（A/80/…）と OICT の文書、S/2021/501 のビデオ会議の会議録の有無。届かなかった先: un.org/en/node/234607 ほか、oios.un.org/file/7754、peacekeeping.un.org の技術戦略の研究論文。
