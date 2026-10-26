@@ -6,7 +6,7 @@
     python3 -I scripts/undocs.py --data ... show 'S/RES/1674(2006)' [--grep REGEX]
 
 規則（docs: knowledge/un-docs-reading-guide.md）:
-  * 記号は空白を除いて正規化する（sym）。同じ sym は 1 本にする（pdf を優先し、長い本文を採る）。
+  * 記号は空白を除き、大文字にして正規化する（sym。`S/inf/72` と `S/INF/72`、`Add.3` と `ADD.3` は同じ）。同じ sym は 1 本にする（pdf を優先し、長い本文を採る）。
   * 総会決議の合冊（Vol. を含む記号）は除く。--keep-vol で残す。
   * 日付は date_adopted > date_distributed > date_other の順に採り、どれを採ったか（date_kind）を出す。
 """
@@ -32,12 +32,12 @@ def connect(path, keep_vol=False):
     con.execute(f"""
       create view docs as
       select * from (
-        select id, regexp_replace(id,'\\s','','g') as sym, {FAMILY} as family, text_source,
+        select id, upper(regexp_replace(id,'\\s','','g')) as sym, {FAMILY} as family, text_source,
                coalesce(date_adopted, date_distributed, date_other) as date,
                case when date_adopted is not null then 'adopted' when date_distributed is not null then 'distributed'
                     when date_other is not null then 'other' else null end as date_kind,
                body,
-               row_number() over (partition by regexp_replace(id,'\\s','','g')
+               row_number() over (partition by upper(regexp_replace(id,'\\s','','g'))
                                   order by (text_source='pdf') desc, length(body) desc, id) as rn
         from read_parquet('{path}') where true {vol}
       ) where rn = 1""")
@@ -76,7 +76,7 @@ def main(argv):
                                  f"order by date nulls last, sym limit {int(a.first)}", [a.regex]).fetchall():
                 print("first", *r)
     else:
-        sym = re.sub(r"\s", "", a.sym)
+        sym = re.sub(r"\s", "", a.sym).upper()
         r = con.execute("select sym, date, date_kind, text_source, length(body), body from docs where sym = ?", [sym]).fetchone()
         if not r:
             print("not found:", sym)
