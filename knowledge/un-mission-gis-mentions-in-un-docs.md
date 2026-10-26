@@ -51,9 +51,9 @@ finding:
 | UNSMIL（国連リビア支援ミッション） | A/RES/71/272（2016-12-23） | 共同ミッション分析センターの「Geographic Information Systems Officer」（P-3）は、**設置しないポストの表**（Annex III「Positions not to be established in the United Nations Support Mission in Libya」）に載っている。ポストの決定の例ではなく、設置されなかった例である。公式の PDF と un-docs の本文で確認 |
 | アフリカ連合の平和支援活動への国連支援の選択肢 | S/2017/454（2017-05-26） | 国連が提供しうる支援の項目に「geospatial information systems and cartographic services」。公式の PDF と一致 |
 | G5 サヘル合同部隊への国連支援 | S/2017/869、S/2018/432、S/2020/476 | 支援の包括案に「geospatial, telecommunications and information technology … support」の形の語（文言は文書により少し違う） |
-| **マリのミッション（MINUSMA）とフランスの Barkhane 部隊** | S/2018/945（2018-06-28） | 事務総長が、フランスの口上書を安保理に送ったもの。Barkhane 部隊が MINUSMA に与えた支援を述べ、情報の節に「**地理空間の情報収集（geospatial intelligence）**（地理データ）の合同作業部会」の計画がある。前身の調査は「G5 サヘルと MINUSMA」「地理空間情報」と書いたが、当事者は Barkhane 部隊と MINUSMA で、語は intelligence（情報収集）である。公式の PDF と一致 |
+| **マリのミッション（MINUSMA）とフランスの Barkhane 部隊** | S/2018/945（un-docs の日付欄は 2018-06-28 だが誤り。S/RES/2423 の採択日で、書簡は 2018-10-19 付、配布は 10-25） | 事務総長が、フランスの口上書を安保理に送ったもの。Barkhane 部隊が MINUSMA に与えた支援を述べ、情報の節に「**地理空間の情報収集（geospatial intelligence）**（地理データ）の合同作業部会」の計画がある。前身の調査は「G5 サヘルと MINUSMA」「地理空間情報」と書いたが、当事者は Barkhane 部隊と MINUSMA で、語は intelligence（情報収集）である。公式の PDF と一致 |
 | MINUSMA | S/2020/952 | 民間人保護の取り組みの影響を評価する「地理空間データにもとづく新しい手段」を作った。公式の PDF と一致 |
-| MINURSO（西サハラ住民投票国連ミッション） | S/2019/787、S/2020/938、S/2021/843 | EU（のち米国も）の二国間支援による地理空間の画像と分析を、停戦違反の早期警戒と観測の補完に使う。S/2019/787 は公式の PDF と一致 |
+| MINURSO（西サハラ住民投票国連ミッション） | S/2019/787、S/2020/938、S/2021/843 | EU の二国間支援（S/2021/843 は EU と米国）による地理空間の画像と分析を、停戦違反の早期警戒と観測の補完に使う。S/2019/787 は公式の PDF と一致 |
 | UNFICYP（国連キプロス平和維持隊） | S/2021/1110（2021-12-31） | ミッションが SAGE の報告システムを根本的に見直した（`sage-situational-awareness-geospatial-enterprise`）。公式の PDF と一致 |
 | UNFICYP の報告にある行方不明者委員会 | S/2023/3 | 委員会の 3 つの事務所が共有する Web 型の地理情報システムを使う。公式の PDF と一致 |
 | UNMHA（ホデイダ合意支援ミッション） | S/PV.9039（2022-05-23） | 発言で、マッピング・地理情報システム・衛星技術の道具を使って停戦の監視を強めたと述べる。公式の PDF と一致 |

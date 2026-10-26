@@ -108,3 +108,6 @@
 - `s-pv-4319-west-africa-humanitarian-gis-recommendation` の更新点: 原文が "subregional capacity" と "Geographical Information System (GIS)" と確認できたので、「region の可能性」の留保は解消できる。「OCHA の部門は危機国に置く」に、政治事務所と同居しなくてよいという趣旨を足す。
 - 未着手: un-docs 全体の 23 語の件数（式は担当のスクラッチにあったが、リポジトリにない）、UNOWA の半期報告（S/2002/…〜）と UNAMSIL・UNMIL 報告での OCHA・HIC・情報管理の追跡、S/PV.4439 の発言者の見出し照合、OCHA の GIS ユニット・UNOSAT・国連地図課との関係、成功・残ったもの・失敗の整理。
 - 届かなかった先: reliefweb.int、unocha.org（403）、unowas.unmissions.org/mandate（404）。ウェブ検索の要約にあった「OCHA の地域事務所は 2003-11 からダカール」は一次未確認のため不採用。
+
+## E. 反映済みの訂正（2026-10-26 夜）
+上の D の「反映すべき訂正」のうち、次は既存の踏み跡に反映した: `satellite-imagery-in-security-council-who-and-why`（発言者、S/PV.7253 の英国、6151 の Resumption 1、8324、8910、7196）、`sage-situational-awareness-geospatial-enterprise`（S/2021/501、S/PV.9389、"may partly explain"）、`un-mission-gis-mentions-in-un-docs`（S/2018/945 の日付、MINURSO の米国）、`un-geospatial-organization-timeline`（S/PV.4310）、`s-pv-4319-…`（subregional capacity）。未反映: 表の「主な主体」の再集計、「不明 1」の特定、`un-docs-reading-guide` の「+478」。
