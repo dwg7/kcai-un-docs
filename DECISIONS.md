@@ -32,3 +32,11 @@
 
 - 形式の核は kcai のまま。`verified_how` の値を `searched-undocs | read-official | read-only | mixed` とした（kcai-terrio の `played | read-source | read-docs` に相当する un-docs 用の区分）。
 - 公式の PDF は、1970〜80 年代の総会決議で**決議集の見開き**（複数の決議が列組みで並ぶ）の場合がある。un-docs の抽出テキストにも隣の決議が混ざる（`un-docs-reading-guide`）。「公式の原文と照合した」と書くときは、該当する決議の節に語があるかまで見る必要がある。
+
+## 2026-10-26（hfu の回答）
+
+1. **`main` に直接入れる。ブランチは切らない。** 最初の作業ブランチ `claude/bootstrap-un-docs` は `main` に取り込んだ（fast-forward）。
+2. `reviewed_by` は当面空のまま（すべて `draft`）。
+3. **un-docs の外の一次資料（UN-GGIM、経済社会理事会、ミッション予算など）を `sources` に加えてよい。** `verified_how: read-official` で示し、「un-docs の範囲外」と明記する。
+4. **前身リポジトリ（`hfu/kcai-yuiseki-datasets`）の要約の訂正は行う。** ブランチ `claude/youthful-goldberg-tq7dzs` に、`knowledge/cross/un-docs-geospatial-institutions.md` の訂正節と、TSV の要約・区分の訂正を push した（コミット cb12af5、50cbaf2。TSV の改行は元の CRLF）。`main` への反映は hfu。
+5. 追加作業（`handoffs/next-agent-prompt.md`）は、このセッションでは行わず、hfu が別のエージェントに依頼する。
