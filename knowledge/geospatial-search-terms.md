@@ -64,6 +64,23 @@ finding:
 
 「地理空間情報」は、英語の `geospatial information` が中心だが、国連の文書では `geographic information (system)`、`remote sensing`、`earth observation`、`geodetic` が、文脈ごとに別の語として使われる。**公式の日本語訳（国連の他言語版）との対応は、英語版だけを見て整理したため未確認**。
 
+## 悉皆の語彙（決定）と、衛星画像の主体の分け方
+
+次の問い（防災、測地、衛星画像、ミッション）が使う語彙を、精度で 3 段に分けて決めた。件数はユニーク記号（合冊除外）の文書数。
+
+| 段 | 語 | 件数 | 使い方 |
+|---|---|---|---|
+| A（そのまま使える） | `geospatial`（73）、`GIS`（大文字、9）、`geographic information system`（60）、`geodet*`（31）、`UN-GGIM` の名称（2）、`Cartographic (Section\|Unit)`（9）、`Geospatial Information Section`（4）、`UNOSAT`（4）、`SAGE`（1）、`geo-referenc*`（8）、`spatial data`（18）、`geographic data`（28。大半が A/RES の人道支援の定型文）、`geo-information`（2） | 小 | 件数は議論の厚みではない |
+| B（連語・文脈で絞る） | `remote sensing`（100）、`earth observation`（48）、`satellite imagery`（194）、`mapping`（539→連語で 30）、`topographic`（76。1947 年の S/PV から出る）、`aerial photograph`（51）、`GPS`（74）、`situational awareness`（294。ほとんどが GIS と無関係）、`UAV/drone`（657。地理空間情報そのものではない） | 大 | 周辺 300 字の主体と目的を読む |
+| C（使わない） | `imagery` 単独、大文字小文字を無視した `GIS`、大文字小文字を無視した `cartograph`（仏語の `cartographie`）、`spatial analysis`（0）、`geodatabase`（0） | — | 偽陽性が多い、または 0 件 |
+
+### 衛星画像（`satellite imagery|images`、`imagery`）の主体（粗い分け）
+
+合わせて 252 文書。周辺 300 字と冒頭 1,500 字の語で分けると（複数に当たる文書がある）、IAEA の査察・保障措置 53、国連ミッション・事務局の報告 35、制裁の専門家パネル・監視チーム 23、各国の発言・情報 19、OPCW 8、調査・人権 7、UNOSAT/UNITAR 2、どれにも当たらない 135。十年代別は 2000 年代 41、2010 年代 143、2020 年代 59、1990 年代以前は 7。系列は S/yyyy/n 136、S/PV 87。
+
+- **国連自身の機能として語られる衛星画像**（UNOSAT、ミッションの地理空間の画像）は一部で、多くは**他機関・各国・専門家パネルが使う画像**の記述。「国連が衛星画像を使う」と読むには、主体を文書ごとに読む必要がある。
+- 判定は機械的な簡易判定で、文書ごとの確認はしていない。確かめるなら B の語を、主体の語（Panel of Experts、UNITAR、IAEA など）と組み合わせた式で再検索する。
+
 ## よくあるまちがい
 
 - `mapping` や `imagery` を足して「地理空間情報の議論が増えた」と言う。
