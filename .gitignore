@@ -1,0 +1,8 @@
+# 大きなデータと一時ファイルは入れない(AGENTS.md)
+tmp/
+work/
+build/
+*.parquet
+*.pdf
+*.zip
+__pycache__/
