@@ -19,3 +19,8 @@
 | a-70-609 | 事務総長 | UNLB の 2014/15 予算実績報告 | https://docs.un.org/en/A/70/609 | A/70/609 | 2026-10-26 |
 | a-70-779 | 事務総長 | UNLB の 2016/17 予算 | https://docs.un.org/en/A/70/779 | A/70/779 | 2026-10-26 |
 | a-78-735 | 事務総長 | UNLB の 2024/25 予算 | https://docs.un.org/en/A/78/735 | A/78/735 | 2026-10-26 |
+| c34-reports | 総会 平和維持活動特別委員会 | 報告 A/68/19〜A/80/19（2014〜2026 年の会期） | https://docs.un.org/en/A/NN/19 | A/68/19〜A/80/19 | 2026-10-26 |
+| s-2025-779 | 事務総長 | MONUSCO に関する報告（2025-12-01） | https://docs.un.org/en/S/2025/779 | S/2025/779 | 2026-10-26 |
+| a-80-798 | 事務総長 | 平和活動の将来の見直し（2026-07-22） | https://docs.un.org/en/A/80/798 | A/80/798-S/2026/600 | 2026-10-26 |
+| duursma-karlsrud-2020 | ZIF 「100 Voices on Technology & Peace Operations」 | Duursma & Karlsrud「Predict and prevent」（二次資料） | https://tech-blog.zif-berlin.org/sites/zif-tech-blog.org/files/inline-files/TECHPOPS-Duursma%20Karlsrud-200923.pdf | 2020-09-23 | 2026-10-26 |
+| uninnovation-unite-aware | UN Innovation Network | 「Unite Aware」の紹介ページ（二次資料に近い） | https://www.uninnovation.network/innovation-library/undc-digital-transformation-expo-peacekeeping-unite-aware-b3f96 | 2022 年ごろ | 2026-10-26 |
