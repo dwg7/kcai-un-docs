@@ -95,3 +95,9 @@
 - SAGE と Unite Aware: 置き換えを述べたのは S/PV.9389 の UNMISS 部隊司令官 1 人。A/78/726 第 158 項は「Unite Aware SAGE」と書く。A/79/788 第 185 項は Unite Aware の計画が「SAGE データベースを使って」事件を記録すると書く。2025 年の研修資料は「UA Sage」を Unite Aware の応用の一つとする。「可視化の層」という整理は文書に合わない。
 - `sage-situational-awareness-geospatial-enterprise` に反映すべき訂正: S/2021/501 は S/PV ではなく議長（中国）の書簡。オランダの発言は付属文書 43 の書面声明。「Unite Aware を MINUSCA で始めた」は別の発言者（付属文書 2、運用支援局長）。インドの拠出 164 万ドルは付属文書 7。S/PV.9389 の発言者は「あるミッションの代表」でなく UNMISS の部隊司令官 Subramanian 中将（スイスの AI の質問への答え）。A/78/726 第 41・158・185 項、A/79/788 第 166・185 項、A/79/724 第 74 項を追記できる。
 - 未着手: 2026/27 年度の予算案（A/80/…）と OICT の文書、S/2021/501 のビデオ会議の会議録の有無。届かなかった先: un.org/en/node/234607 ほか、oios.un.org/file/7754、peacekeeping.un.org の技術戦略の研究論文。
+
+### 日本、韓国、イタリア、フィンランド、米国の言及（`member-state-statements-on-geospatial-japan-korea-italy-finland-us`）
+- S/PV と A/PV の 184 文書（203 出現）を、見出し判定（`scripts/speaker_counts.py`）で分けた。国を特定できたのは 115 出現、特定できなかったのは 88 出現（67 文書）。
+- 日本は A/59/PV.37（2004、地球観測サミット）の 1 文書。イタリアは 4 文書（国連の地図作成者への評価、UNITAR と衛星画像の事業など）。米国は 7 文書（衛星画像を証拠や支援として述べた発言）。韓国とフィンランドは 0。ほかの目立つ国（出現数）はロシア 8、シリア 5、インド 4、ウクライナ 4。
+- UN Open GIS Initiative と各国の関係は調べていない（「未確認」。「無い」とは断定していない）。
+- 未着手: 2 本目 `un-open-gis-initiative-member-state-links`（A/71/19 等、FOSS4G、公開ページ）。88 出現の発言者不明の内訳（議長が自国代表として述べた発言を含む）。A/RES の提案国、第五委員会、UN-GGIM と日本、ブリンディジ UNLB とイタリアの公式文書。公式 PDF との照合。A/59/PV.37 の議題名。
