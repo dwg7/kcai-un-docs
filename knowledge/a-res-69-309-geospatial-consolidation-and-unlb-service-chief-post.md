@@ -16,7 +16,6 @@ reviewed_by: []
 updated: 2026-10-26
 related: [unlb-gis-function-in-budget-documents, un-geospatial-organization-timeline, un-geospatial-institutions-in-un-docs]
 cites:
-  - a-res-69-309: 第 5・7 項
   - a-69-839-add9: 第 44〜50 項
 finding:
   - assembly-deferred-chief-post-after-acabq-did-not-object
