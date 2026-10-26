@@ -24,3 +24,5 @@
 | a-80-798 | 事務総長 | 平和活動の将来の見直し（2026-07-22） | https://docs.un.org/en/A/80/798 | A/80/798-S/2026/600 | 2026-10-26 |
 | duursma-karlsrud-2020 | ZIF 「100 Voices on Technology & Peace Operations」 | Duursma & Karlsrud「Predict and prevent」（二次資料） | https://tech-blog.zif-berlin.org/sites/zif-tech-blog.org/files/inline-files/TECHPOPS-Duursma%20Karlsrud-200923.pdf | 2020-09-23 | 2026-10-26 |
 | uninnovation-unite-aware | UN Innovation Network | 「Unite Aware」の紹介ページ（二次資料に近い） | https://www.uninnovation.network/innovation-library/undc-digital-transformation-expo-peacekeeping-unite-aware-b3f96 | 2022 年ごろ | 2026-10-26 |
+| foss4g-2025-unopengis | FOSS4G 2025（OSGeo） | 講演要旨「UN Open GIS Initiative」（二次資料。ドメイン作業部会 DWG と DWG 7 の記述） | https://talks.osgeo.org/foss4g-2025/talk/HGK9G7/ | 2025 | 2026-10-26 |
+| foss4g-2019-unopengis | FOSS4G 2019 | スポンサー紹介「United Nations Open GIS」（二次資料。2015 年 3 月の開始と記す） | https://2019.foss4g.org/sponsor/united-nations-open-gis/ | 2019 | 2026-10-26 |
