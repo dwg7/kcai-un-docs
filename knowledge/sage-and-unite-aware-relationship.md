@@ -17,7 +17,6 @@ reviewed_by: []
 updated: 2026-10-26
 related: [sage-situational-awareness-geospatial-enterprise, sage-in-security-council-discussions, sage-access-and-who-sees-it, mission-budgets-geospatial-output-lines]
 cites:
-  - budget-overviews: A/78/726 第 41・158・185 項、A/79/788 第 166・185 項
   - c34-reports: A/78/19 第 94・149 項、A/80/19 第 112 項
   - un-docs: S/PV.9389、S/PV.8838、S/2021/501、S/2019/498
 finding:

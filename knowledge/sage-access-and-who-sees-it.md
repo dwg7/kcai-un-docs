@@ -18,7 +18,6 @@ reviewed_by: []
 updated: 2026-10-26
 related: [sage-situational-awareness-geospatial-enterprise, sage-in-security-council-discussions, sage-and-unite-aware-relationship, peace-operations-review-2026-implications-for-un-open-gis, un-mission-gis-mentions-in-un-docs]
 cites:
-  - sage-fact-sheet: 対象の利用者、共有の範囲、Ushahidi を基にすること
   - c34-reports: A/72/19 第 76・77 項、A/78/19 第 94・95・150 項、A/71/19 第 53 項、A/72/19 第 52 項
   - un-docs: SAGE、Unite Aware の検索
 finding:
