@@ -14,7 +14,7 @@ authors:
   - hfu の指示のもと、AI が実施・記述。AI 支援あり
 reviewed_by: []
 updated: 2026-10-26
-related: [un-geospatial-institutions-in-un-docs, un-mission-gis-mentions-in-un-docs, un-docs-reading-guide]
+related: [un-geospatial-institutions-in-un-docs, un-mission-gis-mentions-in-un-docs, un-docs-reading-guide, unlb-gis-function-in-budget-documents]
 cites:
   - un-docs: 組織の決定を述べる総会決議の本文
   - undocs-site: 各決議の該当する文の照合
@@ -55,7 +55,7 @@ finding:
 | 2018-07-05（採択） | A/RES/72/287 | 当サービスを「Field Technology Service」に**改称しない**と決定。臨時職 6 つをポストに転換（Geospatial Information Systems Officer（P-3）1 を含む） | 照合済み |
 | 2019-07-03（採択） | A/RES/73/310 | 「Global Technology Service」への改称を**先送り** | 照合済み |
 
-- **未確認の点**: 2007〜2015 年の間に、UNLB の「GIS センター」がいつ「Geospatial Information Systems Section」や「Service for Geospatial, Information and Telecommunications Technologies」になったかを述べる文書は、un-docs の検索で見つからない（後者の名称の最初の出現は A/RES/69/309）。ミッション予算・UNLB の予算報告（総会文書）に書かれているはずだが、un-docs に無い。
+- **補足（予算文書）**: 2007〜2015 年の間の UNLB 側の名称・人員は、UNLB の予算・実績報告で追える。GIS センター（2007/08）→ Geospatial Information Services Centre（2014/15 の再編）→ Geospatial Information Systems Section（2016/17）。詳細は `unlb-gis-function-in-budget-documents`（un-docs の外）。un-docs の範囲では、改称を述べる文書は見つからない。
 - 2020 年以降の組織の決定を述べる総会決議は、検索では見つからなかった（A/RES/73/310 が最後）。
 
 ## 運用の記述（UNAMI の行方不明者の文書）
@@ -74,7 +74,7 @@ finding:
 
 ## よくあるまちがい
 
-- ニューヨークの地理空間情報課と、ブリンディジの地理空間・情報・通信技術サービスを同じ組織とみなす。別の部署（所属も場所も違う）。
+- ニューヨークの地理空間情報課と、ブリンディジの地理空間・情報・通信技術サービスを同じ組織とみなす。別の部署（所属も場所も違う）。ただし 2007〜2009 年の GIS センターは、ニューヨークの地図課長の指示を受けていた（`unlb-gis-function-in-budget-documents`）。
 - 呼称が 2015 年に一つの組織の中で変わった、とみなす。地図課の改称（69/308）と、UNLB の改称の議論（72/287、73/310）は別の話。
 - 「2022 年に 20 人、2023 年にブリンディジで 6 人」を訓練の実施年とする。実施は 2021 年 11 月と 2022 年 11 月で、前年末に報告されている（前身の要約を直した）。
 - `Service for Geospatial, Information and Telecommunications Technologies` の綴り（コンマの有無、`Technology` の単複）を一つに決めつけて検索する。**語の検索は部分一致で**。

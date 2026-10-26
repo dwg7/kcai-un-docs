@@ -12,4 +12,10 @@
 | ecosoc-2016-27 | 経済社会理事会 | 決議 2016/27「Strengthening institutional arrangements on geospatial information management」（2016-07-27） | https://docs.un.org/en/E/RES/2016/27 | E/RES/2016/27 | 2026-10-26 |
 | ecosoc-2018-14 | 経済社会理事会 | 決議 2018/14「Strategic Framework on Geospatial Information and Services for Disasters」（2018-07-02） | https://docs.un.org/en/E/RES/2018/14 | E/RES/2018/14 | 2026-10-26 |
 | ggim-13th-report | UN-GGIM 専門家委員会 | 第13会期（2023-08-02〜04）の報告 | https://docs.un.org/en/E/2024/46 | E/2024/46-E/C.20/2023/19 | 2026-10-26 |
-
+| a-62-781-add12 | ACABQ | 2008/09 の UNLB 予算案に関する報告（A/62/781/Add.12） | https://docs.un.org/en/A/62/781/Add.12 | A/62/781/Add.12 | 2026-10-26 |
+| a-63-824 | 事務総長 | UNLB の 2009/10 予算（付録に GIS センターの初年度の分析） | https://docs.un.org/en/A/63/824 | A/63/824 | 2026-10-26 |
+| a-69-733 | 事務総長 | UNLB の 2015/16 予算 | https://docs.un.org/en/A/69/733 | A/69/733 | 2026-10-26 |
+| a-69-839-add9 | ACABQ | 2015/16 の UNLB 予算に関する報告 | https://docs.un.org/en/A/69/839/Add.9 | A/69/839/Add.9 | 2026-10-26 |
+| a-70-609 | 事務総長 | UNLB の 2014/15 予算実績報告 | https://docs.un.org/en/A/70/609 | A/70/609 | 2026-10-26 |
+| a-70-779 | 事務総長 | UNLB の 2016/17 予算 | https://docs.un.org/en/A/70/779 | A/70/779 | 2026-10-26 |
+| a-78-735 | 事務総長 | UNLB の 2024/25 予算 | https://docs.un.org/en/A/78/735 | A/78/735 | 2026-10-26 |
