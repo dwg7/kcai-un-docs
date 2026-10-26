@@ -101,3 +101,10 @@
 - 日本は A/59/PV.37（2004、地球観測サミット）の 1 文書。イタリアは 4 文書（国連の地図作成者への評価、UNITAR と衛星画像の事業など）。米国は 7 文書（衛星画像を証拠や支援として述べた発言）。韓国とフィンランドは 0。ほかの目立つ国（出現数）はロシア 8、シリア 5、インド 4、ウクライナ 4。
 - UN Open GIS Initiative と各国の関係は調べていない（「未確認」。「無い」とは断定していない）。
 - 未着手: 2 本目 `un-open-gis-initiative-member-state-links`（A/71/19 等、FOSS4G、公開ページ）。88 出現の発言者不明の内訳（議長が自国代表として述べた発言を含む）。A/RES の提案国、第五委員会、UN-GGIM と日本、ブリンディジ UNLB とイタリアの公式文書。公式 PDF との照合。A/59/PV.37 の議題名。
+
+### 2001 年の OCHA 準地域提案のその後（`west-africa-2001-proposal-implementation-first-traces`。途中で締めた）
+- McAskie 氏の提案を 5 要素に分解した（準地域の体制、戦略的情報と GIS の交換・分析、国間の情報の乏しさ、OCHA の拠点は危機国に置き政治事務所と同居しなくてよい、ギニア・リベリアでの存在強化）。
+- 公式の PDF で S/2001/1128（UNOWA の機能 4 項目、ダカール、国際職員 7 人、2002-01 から 3 年）と S/2001/1129 を読んだ。「連携・調整・情報交換」は残ったが、人道・OCHA・GIS の語は無い。OCHA の地域体制や GIS の運用が実際にできたかは未確認で、「実装パターンの有無」の評価は書いていない。
+- `s-pv-4319-west-africa-humanitarian-gis-recommendation` の更新点: 原文が "subregional capacity" と "Geographical Information System (GIS)" と確認できたので、「region の可能性」の留保は解消できる。「OCHA の部門は危機国に置く」に、政治事務所と同居しなくてよいという趣旨を足す。
+- 未着手: un-docs 全体の 23 語の件数（式は担当のスクラッチにあったが、リポジトリにない）、UNOWA の半期報告（S/2002/…〜）と UNAMSIL・UNMIL 報告での OCHA・HIC・情報管理の追跡、S/PV.4439 の発言者の見出し照合、OCHA の GIS ユニット・UNOSAT・国連地図課との関係、成功・残ったもの・失敗の整理。
+- 届かなかった先: reliefweb.int、unocha.org（403）、unowas.unmissions.org/mandate（404）。ウェブ検索の要約にあった「OCHA の地域事務所は 2003-11 からダカール」は一次未確認のため不採用。
