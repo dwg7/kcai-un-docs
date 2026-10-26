@@ -45,3 +45,9 @@
 - 留意: 国連文書の本文は束に含めない（要約と記号のみ）。`checks/` の TSV は、記号と短い要約で、本文の転載ではない。
 - 未決（hfu）: 上の推薦の採否。リポジトリが公開の間は、GitHub Releases の公開で足りるとみなしてよいか。
 
+### E. 今回の作業で増えた質問
+
+8. **ブランチの削除をお願いしたい。** `dwg7/kcai-un-docs` の `claude/bootstrap-un-docs` と `hfu/kcai-yuiseki-datasets` の `claude/youthful-goldberg-tq7dzs` は、内容を `main` に取り込み済み。このセッションからは削除できなかった（git の push が切断され、`gh` は許可されなかった）。GitHub の画面での削除をお願いする。
+9. **`dwg7` の読み。** `dwg7` を UN Open GIS Initiative のドメイン作業部会 7（UN Smart Maps Group）と読んだ。正しいか。正しければ、`peace-operations-review-2026-implications-for-un-open-gis` に、あなたの関わり方に即した影響（担当する試験の内容、資金源など）を足したい。
+10. **取得できなかった公式サイトの一覧**（HTTP 403）: `peacekeeping.un.org` の DPO 技術戦略の研究論文（2021）と Action for Peacekeeping+ の第 8 次進捗報告（2026）、`un.org` の「Enhancing Situational Awareness in United Nations Peacekeeping」、`oios.un.org` の OIOS の評価・監査報告、`ecosoc.un.org` の決議 2011/24 の PDF。いずれも SAGE と UN Open GIS の裏づけになりうる。ブラウザから開ける場合は、保存して渡していただければ読める。
+

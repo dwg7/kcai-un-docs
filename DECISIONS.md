@@ -40,3 +40,12 @@
 3. **un-docs の外の一次資料（UN-GGIM、経済社会理事会、ミッション予算など）を `sources` に加えてよい。** `verified_how: read-official` で示し、「un-docs の範囲外」と明記する。
 4. **前身リポジトリ（`hfu/kcai-yuiseki-datasets`）の要約の訂正は行う。** ブランチ `claude/youthful-goldberg-tq7dzs` に、`knowledge/cross/un-docs-geospatial-institutions.md` の訂正節と、TSV の要約・区分の訂正を push した（コミット cb12af5、50cbaf2。TSV の改行は元の CRLF）。`main` への反映は hfu。
 5. 追加作業（`handoffs/next-agent-prompt.md`）は、このセッションでは行わず、hfu が別のエージェントに依頼する。
+
+## 2026-10-26（続き）: 外部の一次資料、独立レビュー、ブランチ
+
+1. 外部の公式文書（経済社会理事会、UN-GGIM、UNLB とミッションの予算、特別委員会の報告）は、`documents.un.org` の API で取得できたものを `read-official` として扱う。`ecosoc.un.org`、`un.org`、`peacekeeping.un.org`、`oios.un.org` は HTTP 403/405 で届かなかったため、回避せず「届かなかった」と各踏み跡に書く（SAGE、UN Open GIS の踏み跡）。
+2. `dwg7` は、UN Open GIS Initiative の「ドメイン作業部会 7（UN Smart Maps Group）」を指すと読める（FOSS4G 2025 の講演要旨。二次資料）。踏み跡 `peace-operations-review-2026-implications-for-un-open-gis` はこの読みにもとづく。誤りなら訂正する（`QUESTIONS.md`）。
+3. **独立レビューを導入した**（hfu の提案）。書き出した踏み跡を、別の担い手（別のエージェント）が、データと公式原文で主張を抜き取り検証し、文章の質も評価する。作成者はレビューの報告を受けて直す。巨大な文書集合では、作成と検証を分けるのが有効という見立て（`large-corpus-work-volume-versus-trace-yield`）。
+4. 文章の質を重視する（「言葉足らず」への指摘）。踏み跡の本文は、主語と条件を省かない完全な文で書く。表の中の語は、説明なしの専門語や体言止めの連続にしない。
+5. ブランチ: 取り込み済みの `claude/bootstrap-un-docs`（本リポジトリ）と `claude/youthful-goldberg-tq7dzs`（前身）は、リモートからの削除を試したが、git の push が切断され（プロキシ側の拒否と見られる）、`gh` の使用は許可されなかった。回避せず、削除は hfu が GitHub 上で行う。内容はすべて `main` に取り込み済み。
+
