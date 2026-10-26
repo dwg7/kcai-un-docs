@@ -111,3 +111,6 @@
 
 ## E. 反映済みの訂正（2026-10-26 夜）
 上の D の「反映すべき訂正」のうち、次は既存の踏み跡に反映した: `satellite-imagery-in-security-council-who-and-why`（発言者、S/PV.7253 の英国、6151 の Resumption 1、8324、8910、7196）、`sage-situational-awareness-geospatial-enterprise`（S/2021/501、S/PV.9389、"may partly explain"）、`un-mission-gis-mentions-in-un-docs`（S/2018/945 の日付、MINURSO の米国）、`un-geospatial-organization-timeline`（S/PV.4310）、`s-pv-4319-…`（subregional capacity）。未反映: 表の「主な主体」の再集計、「不明 1」の特定、`un-docs-reading-guide` の「+478」。
+
+## F. レビュー G（`checks/reviews/review-G.md`）
+`a-res-69-309-…`、`unlb-gis-centre-proposal-…`、`a-63-824-…`、`s-pv-4310-…` の 4 本を独立に確かめた。重大な食い違いはなく、軽微な文章の指摘は反映済み。未確認のまま残る: A/69/963、A/60/916、A/61/752、A/61/852/Add.14、A/60/787 第 31 項、S/PV.4310 の時刻、決議 1344 第 6 項。69/309 の主語の補いと読みにくい一文 1 か所は未修正。
