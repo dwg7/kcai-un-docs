@@ -6,8 +6,9 @@
 
 | 踏み跡 | 状態 | 確かめ方 | 時点 |
 |---|---|---|---|
+| [un-document-symbols-primer](un-document-symbols-primer.md): 国連文書の記号の読み方：S/PV、A/RES、S/RES、S/PRST、A/PV、S/INF、A/ES、A/S | draft | searched-undocs | 2026-10-26 |
 | [un-docs-reading-guide](un-docs-reading-guide.md): un-docs の読み方：範囲、記号の正規化、重複、合冊、日付、OCR | draft | searched-undocs | 2026-10-26 |
-| [large-corpus-work-volume-versus-trace-yield](large-corpus-work-volume-versus-trace-yield.md): 巨大な文書集合では、作業量は作れるが踏み跡は作りにくい：その仕組みと、考えられる対応 | draft | read-only | 2026-10-26 |
+| [large-corpus-work-volume-versus-trace-yield](large-corpus-work-volume-versus-trace-yield.md): un-docs のような巨大な文書集合を相手にすると、作業量は作れるが踏み跡は作りにくい：その仕組みと、考えられる対応 | draft | read-only | 2026-10-26 |
 
 ## 問い 2：保護する責任
 
@@ -29,27 +30,27 @@
 
 | 踏み跡 | 状態 | 確かめ方 | 時点 |
 |---|---|---|---|
-| [a-res-42-186-environmental-perspective-and-geographic-information](a-res-42-186-environmental-perspective-and-geographic-information.md): A/RES/42/186（1987年）：「2000年以降の環境の展望」の中の地理情報システム ― 文脈、目的、当初の構想、現在との対比 | draft | mixed | 2026-10-26 |
-| [s-pv-4319-west-africa-humanitarian-gis-recommendation](s-pv-4319-west-africa-humanitarian-gis-recommendation.md): S/PV.4319（2001年5月14日）：西アフリカの人道危機に関する安保理会合での「GIS データ」の提案 ― 文脈、目的、当初の構想、現在との対比 | draft | mixed | 2026-10-26 |
-| [outer-space-resolutions-geospatial-wording-2006-2025](outer-space-resolutions-geospatial-wording-2006-2025.md): 毎年の「宇宙空間の平和利用における国際協力」決議にある地理空間の文言の変遷（2006〜2025年） | draft | mixed | 2026-10-26 |
-| [a-res-61-111-space-derived-geospatial-data-agenda-item](a-res-61-111-space-derived-geospatial-data-agenda-item.md): A/RES/61/111（2006年）：宇宙空間平和利用委員会の新議題「宇宙由来の地理空間データ」― 文脈、目的、当初の構想、現在との対比 | draft | mixed | 2026-10-26 |
+| [a-res-42-186-environmental-perspective-and-geographic-information](a-res-42-186-environmental-perspective-and-geographic-information.md): A/RES/42/186（1987年）：「2000年以降の環境の展望」に出る地理情報システムを読む | draft | mixed | 2026-10-26 |
+| [s-pv-4319-west-africa-humanitarian-gis-recommendation](s-pv-4319-west-africa-humanitarian-gis-recommendation.md): S/PV.4319（2001年5月14日）：西アフリカの人道危機に関する安保理会合で出た「GIS データ」の提案を読む | draft | mixed | 2026-10-26 |
+| [outer-space-resolutions-geospatial-wording-2006-2025](outer-space-resolutions-geospatial-wording-2006-2025.md): 「宇宙空間の平和利用における国際協力」の決議にある地理空間の文言の変遷（2006〜2025年） | draft | mixed | 2026-10-26 |
+| [a-res-61-111-space-derived-geospatial-data-agenda-item](a-res-61-111-space-derived-geospatial-data-agenda-item.md): A/RES/61/111（2006年）：宇宙空間平和利用委員会の新しい議題「宇宙由来の地理空間データ」を読む | draft | mixed | 2026-10-26 |
 
 ## 問い 3：機関とミッションの GIS 機能
 
 | 踏み跡 | 状態 | 確かめ方 | 時点 |
 |---|---|---|---|
-| [un-geospatial-organization-timeline](un-geospatial-organization-timeline.md): 国連の地図課→地理空間情報課と、UNLB の GIS センター→地理空間・情報・通信技術サービス：名称と組織の年表 | draft | mixed | 2026-10-26 |
-| [un-geospatial-institutions-in-un-docs](un-geospatial-institutions-in-un-docs.md): 地理空間情報課・UNLB の地理空間サービス・ミッションの GIS 機能：un-docs の悉皆的な把握の確かめ直し | draft | mixed | 2026-10-26 |
+| [un-geospatial-organization-timeline](un-geospatial-organization-timeline.md): 国連事務局の地図課から地理空間情報課へ、ブリンディジの GIS センターから地理空間・情報通信技術サービス部へ：名称と組織の年表 | draft | mixed | 2026-10-26 |
+| [un-geospatial-institutions-in-un-docs](un-geospatial-institutions-in-un-docs.md): 国連の地理空間組織とミッションの GIS を、un-docs でどこまで数え上げられるか：前身の調査の確かめ直し | draft | mixed | 2026-10-26 |
 | [un-mission-gis-mentions-in-un-docs](un-mission-gis-mentions-in-un-docs.md): 各ミッションの GIS・地理空間の機能は、総会・安保理の文書でどう語られるか（un-docs の範囲、25 文書の確かめ直し） | draft | mixed | 2026-10-26 |
 
 ## un-docs の外の公式文書で補ったもの
 
 | 踏み跡 | 状態 | 確かめ方 | 時点 |
 |---|---|---|---|
-| [un-ggim-ecosoc-geospatial-institutional-arc](un-ggim-ecosoc-geospatial-institutional-arc.md): UN-GGIM と経済社会理事会：地理空間情報の制度の弧（un-docs の外の一次資料） | draft | read-official | 2026-10-26 |
-| [unlb-gis-function-in-budget-documents](unlb-gis-function-in-budget-documents.md): ブリンディジ（UNLB）の GIS 機能：予算文書から読む名称・人員・成果物（un-docs の外の一次資料） | draft | read-official | 2026-10-26 |
-| [sage-situational-awareness-geospatial-enterprise](sage-situational-awareness-geospatial-enterprise.md): SAGE（Situational Awareness Geospatial Enterprise）とは何か：公式文書で追える登場と現在 | draft | mixed | 2026-10-26 |
-| [mission-budgets-geospatial-output-lines](mission-budgets-geospatial-output-lines.md): 平和維持活動の予算案にある「地理空間データの分析」の成果物の行：ミッション別の数値と、書式の変化 | draft | read-official | 2026-10-26 |
+| [un-ggim-ecosoc-geospatial-institutional-arc](un-ggim-ecosoc-geospatial-institutional-arc.md): 国連地球規模地理空間情報管理（UN-GGIM）の専門家委員会と経済社会理事会：設置（2011年）から現在（2023年）までの流れ | draft | read-official | 2026-10-26 |
+| [unlb-gis-function-in-budget-documents](unlb-gis-function-in-budget-documents.md): 国連ロジスティクス基地（UNLB、ブリンディジ）の GIS 機能：予算文書から読む名称・人員・成果物（un-docs の外の一次資料） | draft | read-official | 2026-10-26 |
+| [sage-situational-awareness-geospatial-enterprise](sage-situational-awareness-geospatial-enterprise.md): SAGE（Situational Awareness Geospatial Enterprise）とは何か：公式文書で追える登場、Unite Aware との関係、現在 | draft | mixed | 2026-10-26 |
+| [mission-budgets-geospatial-output-lines](mission-budgets-geospatial-output-lines.md): 平和維持活動の予算案にある「地理空間データの分析」の成果物の行：ミッション別の数値と、2026/27 年度の載せ方の変化（un-docs の外の公式文書） | draft | read-official | 2026-10-26 |
 | [peace-operations-review-2026-implications-for-un-open-gis](peace-operations-review-2026-implications-for-un-open-gis.md): 「平和活動の将来の見直し」（2026年7月22日）が、UN Open GIS Initiative と DWG 7 に及ぼしうる影響 | draft | mixed | 2026-10-26 |
 
 ## 種の問いの候補から
