@@ -1,0 +1,74 @@
+sym	date	date_kind	family	n_mentions	themes_in_window
+A/RES/61/111	2006-12-14	adopted	A/RES	1	space/space-derived;sustainable development/SDG
+A/RES/62/217	2007-12-22	adopted	A/RES	1	space/space-derived;sustainable development/SDG
+A/RES/63/90	2008-12-05	adopted	A/RES	1	space/space-derived;sustainable development/SDG
+A/RES/66/71	2011-12-09	adopted	A/RES	2	space/space-derived;disaster/emergency;sustainable development/SDG;health
+A/RES/66/288	2012-07-27	adopted	A/RES	2	disaster/emergency;sustainable development/SDG;boundary/mapping/cartography
+A/RES/67/113	2012-12-18	adopted	A/RES	1	space/space-derived;disaster/emergency;sustainable development/SDG
+A/RES/68/75	2013-12-11	adopted	A/RES	1	space/space-derived;disaster/emergency;sustainable development/SDG;health
+A/RES/69/15	2014-11-14	adopted	A/RES	1	statistics/data
+A/RES/69/85	2014-12-05	adopted	A/RES	2	space/space-derived;disaster/emergency;health;UN secretariat organization
+A/69/PV.80	2015-02-26	other	A/PV	6	space/space-derived;disaster/emergency;sustainable development/SDG;peacekeeping/field missions;ocean/seas;geodesy/reference frame;UN secretariat organization
+A/RES/69/266	2015-02-26	adopted	A/RES	6	space/space-derived;disaster/emergency;sustainable development/SDG;boundary/mapping/cartography;sanctions/proliferation;geodesy/reference frame
+A/RES/69/283	2015-06-03	adopted	A/RES	3	space/space-derived;disaster/emergency;boundary/mapping/cartography;health;UN secretariat organization
+A/RES/69/308	2015-06-25	adopted	A/RES	1	peacekeeping/field missions;boundary/mapping/cartography;UN secretariat organization
+A/RES/69/309	2015-06-25	adopted	A/RES	2	peacekeeping/field missions;UN secretariat organization
+S/INF/71	2015-08-01	other	S/INF	1	sanctions/proliferation
+A/RES/69/315	2015-09-01	adopted	A/RES	1	statistics/data;UN secretariat organization
+A/RES/70/1	2015-09-25	adopted	A/RES	1	sustainable development/SDG;statistics/data
+A/RES/70/82	2015-12-09	adopted	A/RES	2	space/space-derived;disaster/emergency;sustainable development/SDG;ocean/seas;health
+S/2015/1012	2015-12-22	distributed	S/yyyy/n	1	peacekeeping/field missions;boundary/mapping/cartography
+S/2015/1025	2015-12-23	distributed	S/yyyy/n	1	boundary/mapping/cartography;UN secretariat organization
+S/RES/2270(2016)	2016-03-02	adopted	S/RES	1	sanctions/proliferation
+A/RES/70/288	2016-06-17	adopted	A/RES	5	peacekeeping/field missions;UN secretariat organization
+S/PV.7802	2016-11-07	other	S/PV	1	peacekeeping/field missions
+A/RES/71/90	2016-12-06	adopted	A/RES	2	space/space-derived;disaster/emergency;sustainable development/SDG;ocean/seas;health
+A/RES/71/256	2016-12-23	adopted	A/RES	2	urban/housing
+S/2017/78	2017-01-26	distributed	S/yyyy/n	1	peacekeeping/field missions;boundary/mapping/cartography;UN secretariat organization
+S/2017/869	2017-04-13	adopted	S/yyyy/n	1	
+S/2017/454	2017-05-26	distributed	S/yyyy/n	1	disaster/emergency;boundary/mapping/cartography
+S/2017/552	2017-06-28	distributed	S/yyyy/n	1	
+S/2017/653	2017-07-31	distributed	S/yyyy/n	1	peacekeeping/field missions
+S/2017/1034	2017-12-08	distributed	S/yyyy/n	2	peacekeeping/field missions;boundary/mapping/cartography;UN secretariat organization
+A/RES/72/77	2017-12-14	distributed	A/RES	2	space/space-derived;disaster/emergency;sustainable development/SDG;ocean/seas;health
+S/2018/432	2018-05-08	distributed	S/yyyy/n	1	peacekeeping/field missions
+S/2018/945	2018-06-28	adopted	S/yyyy/n	1	peacekeeping/field missions
+A/RES/72/287	2018-07-05	adopted	A/RES	2	UN secretariat organization
+A/RES/73/91	2018-12-18	distributed	A/RES	2	space/space-derived;disaster/emergency;sustainable development/SDG;ocean/seas;health
+A/RES/73/231	2019-01-17	distributed	A/RES	1	disaster/emergency;sustainable development/SDG
+S/2019/319	2019-04-16	distributed	S/yyyy/n	1	disaster/emergency;peacekeeping/field missions
+S/2019/352	2019-04-29	distributed	S/yyyy/n	1	peacekeeping/field missions
+A/RES/73/310	2019-07-03	adopted	A/RES	1	peacekeeping/field missions
+S/2019/632	2019-08-06	distributed	S/yyyy/n	1	space/space-derived;peacekeeping/field missions
+S/2019/787	2019-10-02	distributed	S/yyyy/n	2	peacekeeping/field missions
+S/2019/865	2019-11-07	distributed	S/yyyy/n	1	peacekeeping/field missions
+A/RES/74/82	2019-12-26	distributed	A/RES	2	space/space-derived;disaster/emergency;sustainable development/SDG;ocean/seas;health
+A/RES/74/218	2020-01-23	distributed	A/RES	2	disaster/emergency;statistics/data
+S/2020/133	2020-02-20	distributed	S/yyyy/n	1	space/space-derived;peacekeeping/field missions
+S/2020/151	2020-03-02	distributed	S/yyyy/n	1	sanctions/proliferation
+S/2020/358	2020-05-05	distributed	S/yyyy/n	1	space/space-derived;peacekeeping/field missions
+S/2020/476	2020-06-02	distributed	S/yyyy/n	1	
+S/2020/938	2020-09-23	distributed	S/yyyy/n	1	space/space-derived;peacekeeping/field missions
+S/2020/952	2020-09-29	distributed	S/yyyy/n	1	peacekeeping/field missions
+A/RES/75/216	2020-12-29	distributed	A/RES	2	disaster/emergency;statistics/data
+S/2021/198	2021-03-01	distributed	S/yyyy/n	1	disaster/emergency;peacekeeping/field missions
+S/2021/395	2021-04-22	distributed	S/yyyy/n	1	peacekeeping/field missions
+S/2021/501	2021-05-28	distributed	S/yyyy/n	1	disaster/emergency;peacekeeping/field missions
+S/2021/732	2021-08-20	distributed	S/yyyy/n	1	peacekeeping/field missions;UN secretariat organization
+S/2021/843	2021-10-01	distributed	S/yyyy/n	1	peacekeeping/field missions
+A/76/PV.21	2021-10-25	other	A/PV	1	space/space-derived;disaster/emergency;sustainable development/SDG;health
+S/2021/930	2021-11-08	distributed	S/yyyy/n	1	peacekeeping/field missions
+A/RES/76/76	2021-12-15	distributed	A/RES	2	space/space-derived;disaster/emergency;sustainable development/SDG;ocean/seas
+S/2021/1110	2021-12-31	distributed	S/yyyy/n	1	peacekeeping/field missions
+A/RES/76/204	2022-01-05	distributed	A/RES	2	disaster/emergency;health
+S/2022/100	2022-02-08	distributed	S/yyyy/n	1	peacekeeping/field missions
+A/RES/76/258	2022-04-06	distributed	A/RES	1	disaster/emergency;sustainable development/SDG;statistics/data
+A/77/398	2022-11-01	distributed	A/NN/n	3	space/space-derived;disaster/emergency;sustainable development/SDG;statistics/data;ocean/seas;health
+A/77/L.36	2022-11-30	distributed	A/NN/L	1	ocean/seas
+A/77/443/ADD.3	2022-12-01	distributed	A/NN/n	3	space/space-derived;disaster/emergency;sustainable development/SDG;statistics/data
+A/RES/77/120	2022-12-15	distributed	A/RES	1	space/space-derived;statistics/data;health
+A/RES/77/121	2022-12-15	distributed	A/RES	2	space/space-derived;disaster/emergency;sustainable development/SDG;ocean/seas
+A/RES/77/164	2022-12-21	distributed	A/RES	3	space/space-derived;disaster/emergency;sustainable development/SDG;statistics/data;health
+A/RES/77/248	2023-01-09	distributed	A/RES	1	ocean/seas
+S/2023/51	2023-01-19	distributed	S/yyyy/n	1	disaster/emergency;peacekeeping/field missions
+S/PV.9389	2023-07-28	other	S/PV	1	peacekeeping/field missions

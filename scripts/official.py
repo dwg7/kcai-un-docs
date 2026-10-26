@@ -19,7 +19,7 @@ def fetch(sym, cache, lang="en"):
         if not data.startswith(b"%PDF"):
             raise RuntimeError("PDF ではない応答（%d bytes）" % len(data))
         pdf.write_bytes(data)
-    txt = subprocess.run(["pdftotext", "-layout", str(pdf), "-"], capture_output=True, text=True, check=True).stdout
+    txt = subprocess.run(["pdftotext", str(pdf), "-"], capture_output=True, text=True, check=True).stdout
     return pdf, txt
 
 def main(a):
