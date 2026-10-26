@@ -31,6 +31,7 @@
 |---|---|---|---|
 | [a-res-42-186-environmental-perspective-and-geographic-information](a-res-42-186-environmental-perspective-and-geographic-information.md): A/RES/42/186（1987年）：「2000年以降の環境の展望」の中の地理情報システム ― 文脈、目的、当初の構想、現在との対比 | draft | mixed | 2026-10-26 |
 | [s-pv-4319-west-africa-humanitarian-gis-recommendation](s-pv-4319-west-africa-humanitarian-gis-recommendation.md): S/PV.4319（2001年5月14日）：西アフリカの人道危機に関する安保理会合での「GIS データ」の提案 ― 文脈、目的、当初の構想、現在との対比 | draft | mixed | 2026-10-26 |
+| [outer-space-resolutions-geospatial-wording-2006-2025](outer-space-resolutions-geospatial-wording-2006-2025.md): 毎年の「宇宙空間の平和利用における国際協力」決議にある地理空間の文言の変遷（2006〜2025年） | draft | mixed | 2026-10-26 |
 | [a-res-61-111-space-derived-geospatial-data-agenda-item](a-res-61-111-space-derived-geospatial-data-agenda-item.md): A/RES/61/111（2006年）：宇宙空間平和利用委員会の新議題「宇宙由来の地理空間データ」― 文脈、目的、当初の構想、現在との対比 | draft | mixed | 2026-10-26 |
 
 ## 問い 3：機関とミッションの GIS 機能
