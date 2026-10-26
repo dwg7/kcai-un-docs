@@ -48,6 +48,7 @@
 | [un-ggim-ecosoc-geospatial-institutional-arc](un-ggim-ecosoc-geospatial-institutional-arc.md): UN-GGIM と経済社会理事会：地理空間情報の制度の弧（un-docs の外の一次資料） | draft | read-official | 2026-10-26 |
 | [unlb-gis-function-in-budget-documents](unlb-gis-function-in-budget-documents.md): ブリンディジ（UNLB）の GIS 機能：予算文書から読む名称・人員・成果物（un-docs の外の一次資料） | draft | read-official | 2026-10-26 |
 | [sage-situational-awareness-geospatial-enterprise](sage-situational-awareness-geospatial-enterprise.md): SAGE（Situational Awareness Geospatial Enterprise）とは何か：公式文書で追える登場と現在 | draft | mixed | 2026-10-26 |
+| [mission-budgets-geospatial-output-lines](mission-budgets-geospatial-output-lines.md): 平和維持活動の予算案にある「地理空間データの分析」の成果物の行：ミッション別の数値と、書式の変化 | draft | read-official | 2026-10-26 |
 | [peace-operations-review-2026-implications-for-un-open-gis](peace-operations-review-2026-implications-for-un-open-gis.md): 「平和活動の将来の見直し」（2026年7月22日）が、UN Open GIS Initiative と DWG 7 に及ぼしうる影響 | draft | mixed | 2026-10-26 |
 
 ## 種の問いの候補から

@@ -26,3 +26,9 @@
 | uninnovation-unite-aware | UN Innovation Network | 「Unite Aware」の紹介ページ（二次資料に近い） | https://www.uninnovation.network/innovation-library/undc-digital-transformation-expo-peacekeeping-unite-aware-b3f96 | 2022 年ごろ | 2026-10-26 |
 | foss4g-2025-unopengis | FOSS4G 2025（OSGeo） | 講演要旨「UN Open GIS Initiative」（二次資料。ドメイン作業部会 DWG と DWG 7 の記述） | https://talks.osgeo.org/foss4g-2025/talk/HGK9G7/ | 2025 | 2026-10-26 |
 | foss4g-2019-unopengis | FOSS4G 2019 | スポンサー紹介「United Nations Open GIS」（二次資料。2015 年 3 月の開始と記す） | https://2019.foss4g.org/sponsor/united-nations-open-gis/ | 2019 | 2026-10-26 |
+| a-76-700 | 事務総長 | UNIFIL の 2022/23 予算 | https://docs.un.org/en/A/76/700 | A/76/700 | 2026-10-26 |
+| a-78-725 | 事務総長 | UNIFIL の 2024/25 予算 | https://docs.un.org/en/A/78/725 | A/78/725 | 2026-10-26 |
+| a-79-733 | 事務総長 | UNFICYP の 2025/26 予算 | https://docs.un.org/en/A/79/733 | A/79/733 | 2026-10-26 |
+| a-79-736 | 事務総長 | MINURSO の 2025/26 予算 | https://docs.un.org/en/A/79/736 | A/79/736 | 2026-10-26 |
+| a-79-761 | 事務総長 | UNDOF の 2025/26 予算 | https://docs.un.org/en/A/79/761 | A/79/761 | 2026-10-26 |
+| a-80-607 | 事務総長 | UNFICYP の 2024/25 実績と 2026/27 予算 | https://docs.un.org/en/A/80/607 | A/80/607 | 2026-10-26 |
