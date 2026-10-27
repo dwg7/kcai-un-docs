@@ -7,6 +7,9 @@
 | 踏み跡 | 状態 | 確かめ方 | 時点 |
 |---|---|---|---|
 | [un-document-symbols-primer](un-document-symbols-primer.md): 国連文書の記号の読み方：S/PV、A/RES、S/RES、S/PRST、A/PV、S/INF、A/ES、A/S | draft | searched-undocs | 2026-10-26 |
+| [keyword-human-security-in-un-docs](keyword-human-security-in-un-docs.md): 「人間の安全保障」（human security）：un-docs での初出、広がり、2005 年成果文書と 2012 年総会決議、日本の発言 | draft | mixed | 2026-10-27 |
+| [keyword-nexus-in-un-docs](keyword-nexus-in-un-docs.md): 「ネクサス」（nexus）：意味ごとの分け方、人道・開発・平和のネクサスの広がり、語が使われる場面 | draft | searched-undocs | 2026-10-27 |
+| [keyword-agency-in-un-docs](keyword-agency-in-un-docs.md): 「エージェンシー」（agency）：機関の意味が圧倒的で、行為主体性の用法は 2008 年以降に増える | draft | mixed | 2026-10-27 |
 | [un-docs-reading-guide](un-docs-reading-guide.md): un-docs の読み方：範囲、記号の正規化、重複、合冊、日付、OCR | draft | searched-undocs | 2026-10-26 |
 | [large-corpus-work-volume-versus-trace-yield](large-corpus-work-volume-versus-trace-yield.md): un-docs のような巨大な文書集合を相手にすると、作業量は作れるが踏み跡は作りにくい：その仕組みと、考えられる対応 | draft | read-only | 2026-10-26 |
 
