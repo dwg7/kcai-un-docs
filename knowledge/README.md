@@ -68,3 +68,5 @@
 3. 問い 1: `geospatial-search-terms` → `geospatial-first-appearance` → `geospatial-themes-frameworks-conclusions` → `geospatial-geographic-tendency` → `geospatial-activity-over-time`。深掘りの 3 本は、初出の文書ごとの背景を知りたいときに
 4. 問い 3: `un-geospatial-organization-timeline` → `un-geospatial-institutions-in-un-docs` → `un-mission-gis-mentions-in-un-docs`、そのあと外の公式文書の 4 本
 5. 作業の観察: `large-corpus-work-volume-versus-trace-yield`
+
+| [un-open-gis-initiative-member-state-links](un-open-gis-initiative-member-state-links.md): UN Open GIS Initiative と日本、韓国、イタリア、フィンランド、米国の関係：公式文書に無く、二次資料で分かること | draft | mixed | 2026-10-27 |
