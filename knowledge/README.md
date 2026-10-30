@@ -7,6 +7,8 @@
 | 踏み跡 | 状態 | 確かめ方 | 時点 |
 |---|---|---|---|
 | [un-document-symbols-primer](un-document-symbols-primer.md): 国連文書の記号の読み方：S/PV、A/RES、S/RES、S/PRST、A/PV、S/INF、A/ES、A/S | draft | searched-undocs | 2026-10-26 |
+| [japan-statements-on-human-security-in-un-docs](japan-statements-on-human-security-in-un-docs.md): 日本は「人間の安全保障」について何を語ってきたか：安保理・総会の会議録 185 文書の横断（1999〜2023年） | draft | mixed | 2026-10-30 |
+| [agency-agentive-use-by-meeting-type-in-un-docs](agency-agentive-use-by-meeting-type-in-un-docs.md): 行為主体性の意味の agency は、どのような会議・議題で述べられているか：51 文書の分類（分類だけの途中経過） | draft | searched-undocs | 2026-10-30 |
 | [keyword-human-security-in-un-docs](keyword-human-security-in-un-docs.md): 「人間の安全保障」（human security）：un-docs での初出、広がり、2005 年成果文書と 2012 年総会決議、日本の発言 | draft | mixed | 2026-10-27 |
 | [keyword-nexus-in-un-docs](keyword-nexus-in-un-docs.md): 「ネクサス」（nexus）：意味ごとの分け方、人道・開発・平和のネクサスの広がり、語が使われる場面 | draft | searched-undocs | 2026-10-27 |
 | [keyword-agency-in-un-docs](keyword-agency-in-un-docs.md): 「エージェンシー」（agency）：機関の意味が圧倒的で、行為主体性の用法は 2008 年以降に増える | draft | mixed | 2026-10-27 |
