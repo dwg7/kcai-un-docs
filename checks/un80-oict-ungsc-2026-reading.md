@@ -9,9 +9,13 @@
 | A/80/6 (Sect.29C) | 2026 年の提案計画予算（OICT） | `open.source`、`geographic information` | 成果の表にオープンソースの記述、目標(d) GIS サービスの促進 |
 | A/81/6 (Sect.29C) | 2027 年の提案計画予算（OICT。2026-05-01） | 同上 | オープンソース 0 件、目標(d)は「標準化された」GIS サービス、D-1 のバレンシアへの移転 |
 | A/80/7/Add.9 | ACABQ の改訂見積りの報告 | `open.source`、`Geographic Information Officer` | 第 VIII.84〜VIII.110 項、表 VIII.18 |
+| A/81/7 | ACABQ の 2027 年の提案計画予算の報告（OICT は第 VIII.82〜VIII.109 項） | `open.source`、`Geospatial\|Geographic`、`Valencia\|Brindisi\|Bangkok` | 第 VIII.85 項（Open Source Week）、第 VIII.87 項（データセンター）、第 VIII.89〜VIII.90 項（ポスト）、第 VIII.105 項（オープンソース）。地理空間の語は OICT の節に 0 件 |
 | A/RES/80/253 | 情報通信技術戦略（2026-04-15） | `digital hub`、`data cent` | 第 9・15・17 項 |
 | A/RES/80/254、80/255 | 政治問題の改訂見積り、合同監査団 | — | OICT とは別の議題（確認のみ） |
 
 見つからなかったもの: 「Geospatial Information Section」（A/80/400、A/80/605）、`Open GIS` の語、運用支援局の移転での地理空間の名指し。
 
 届かなかった先: なし（documents.un.org は取得できた）。取得できなかったもの: A/80/7 の第 VIII 部（初回報告）、A/81/7 の OICT の節（未取得）、総会が承認した最終のポスト数。
+
+## A/80/6 と A/81/6 の比較の方法
+`pdftotext -layout` で表の列を保って読み、小計画 1 の「計画した成果」の見出し（Result 1〜3）を並べて比べた。A/80/6: Result 1 革新的な技術のパートナーシップ、2 生成 AI、3 倫理的・責任ある AI。A/81/6: Result 1 生成 AI、2 倫理的・責任ある AI、3 ICT 戦略の効果的な適用。オープンソースの語は A/80/6 で表 29C.2 に複数（2022、2025、2026 の欄）、A/81/6 で 0 件。
