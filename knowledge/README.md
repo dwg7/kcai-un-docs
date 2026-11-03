@@ -56,6 +56,7 @@
 | [unlb-gis-function-in-budget-documents](unlb-gis-function-in-budget-documents.md): 国連ロジスティクス基地（UNLB、ブリンディジ）の GIS 機能：予算文書から読む名称・人員・成果物（un-docs の外の一次資料） | draft | read-official | 2026-10-26 |
 | [sage-situational-awareness-geospatial-enterprise](sage-situational-awareness-geospatial-enterprise.md): SAGE（Situational Awareness Geospatial Enterprise）とは何か：公式文書で追える登場、Unite Aware との関係、現在 | draft | mixed | 2026-10-26 |
 | [mission-budgets-geospatial-output-lines](mission-budgets-geospatial-output-lines.md): 平和維持活動の予算案にある「地理空間データの分析」の成果物の行：ミッション別の数値と、2026/27 年度の載せ方の変化（un-docs の外の公式文書） | draft | read-official | 2026-10-26 |
+| [un80-oict-ungsc-2026-changes-for-geospatial](un80-oict-ungsc-2026-changes-for-geospatial.md): UN80 と 2026 年・2026/27 年度の予算で、OICT と国連グローバル・サービスセンター（ブリンディジ、バレンシア）の体制はどう変わるか：地理空間と Open GIS に関わる点だけ | draft | read-official | 2026-11-03 |
 | [peace-operations-review-2026-implications-for-un-open-gis](peace-operations-review-2026-implications-for-un-open-gis.md): 「平和活動の将来の見直し」（2026年7月22日）が、UN Open GIS Initiative と DWG 7 に及ぼしうる影響 | draft | mixed | 2026-10-26 |
 
 ## 種の問いの候補から
