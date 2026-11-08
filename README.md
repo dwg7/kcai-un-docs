@@ -12,7 +12,8 @@
 
 ## 構成
 
-- `knowledge/`: 踏み跡（一覧は [`knowledge/README.md`](knowledge/README.md)）
+- `miso/un-docs.md`: **正本**（2026-11-08 から）。踏み跡を単一の Markdown（[miso](https://github.com/dwg7/miso)、旧称 kcaim）にまとめたもの。チャット型の AI に添付しても、コードエージェントで編集しても使える。冒頭の `agent-contract` に従う。
+- `knowledge/`: 移行時点の踏み跡の凍結した写し（正本は `miso/un-docs.md`。一覧は [`knowledge/README.md`](knowledge/README.md)）
 - `checks/`: 検索の記録（クエリ、件数、手順）と、再現用の入力
 - `scripts/undocs.py`: un-docs を、記号の正規化・重複除去・合冊除外つきで検索する補助
 - `QUESTIONS.md`: 種の問いの台帳と、hfu への質問

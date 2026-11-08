@@ -79,3 +79,11 @@ un-docs の抽出テキストは**二次的な写し**。引用する箇所は�
 ## データの読み方
 
 `checks/README.md` を見る。データは `https://huggingface.co/datasets/yuiseki/un-docs/resolve/6cd1cf0/documents.parquet`（409MB、pin した版）。
+
+## 名前について(miso)
+
+**名前について(miso)。**このプロジェクトの親にあたる方法の呼び名は miso(旧称 kcaim / KCAIM)で、同じものを指す。**既存の名前(リポジトリ、ファイル名、キー、URL、パラメータ、スクリプト)は、遡って変えない。**新しく作るものは、miso の名前を使う。ツールは、旧名と新名の**両方を受理**し、書くときは新名を使う。ファイルや機能を実質的に改訂するときは、**編集している行に限り**、名前を新名にしてよい(別のコミットにする)。一斉の置換はしない。判断が分かれるときは、hfu に確かめる。詳しくは、`dwg7/miso` の `MIGRATION.md` を参照。
+
+## miso 版(2026-11-08 から)
+
+踏み跡の**正本は `miso/un-docs.md`**(単一の Markdown。作業の入口はその冒頭の `/system-record/agent-contract`)。`knowledge/` は移行時点の凍結した写しで、正本ではない。新しい踏み跡や訂正は `miso/un-docs.md` に加え、`python3 scripts/check_miso.py` を通す。`scripts/kcai_to_miso/build.py` は正本を上書きするので `--force-migration` が要る。上の kcai の原則(一次資料の転載をしない、AI は `reviewed` 以上にしない、など)は、そのまま守る。

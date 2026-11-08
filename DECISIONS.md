@@ -63,3 +63,13 @@
 - 弱めた結論: 活発度の仮説は「支持されない」から「支持する材料は見つからなかった」へ。「制度化された」「間接的なものになる」「追い風」など、根拠より強い言い方を、条件つきに直した。
 - 衛星画像の踏み跡の「加盟国と国連の機関にほぼ二分」は、件数表が無いので「大まかには」に弱め、IAEA を国連の機関と一括りにしない書き方にした。
 - 再現できない値（衛星画像の主体の分け、S/ 文書 113 件の内訳）は、再現できないと本文に書いた。
+
+## 2026-11-08 miso への移行（hfu の決定）
+
+1. **正本を `miso/un-docs.md` に移した。** `knowledge/` の 76 件の踏み跡を、本文と元の front matter を一字も変えずに、単一の Markdown（miso、旧称 kcaim）に収めた。`knowledge/` は凍結した写しで、`scripts/miso_roundtrip_check.py` が復元の一致を確かめる（76/76）。移行の道具 `scripts/kcai_to_miso/build.py` は、正本を上書きするため `--force-migration` を要する。
+2. **全件を一つのファイルに入れる**（約 46 万字、UTF-8 で約 0.8MB）。miso の CONCEPT の未解決の問い（単一ファイルの大きさ）に対する、一つの事例。チャット型の製品で上限を超えるかは未検証（`/open-questions/single-file-size`）。
+3. **実行環境の型は、チャット型とコードエージェント型の両方を宣言した。**
+4. **状態の対応**（hfu 承認）: kcai の `verified_how`（searched-undocs / read-official / mixed / read-only）は、miso の `status: stated` に写し、`verified` は付けない（人の確認がないため）。kcai の `draft` は `kcai-status` に残し、`human-review: none` と併記する。`verified` は、hfu が確認して `reviewed_by` に記録したとき、範囲を限定して付ける。
+5. **受け入れテスト**（T1〜T10）は作ったが、結果は `untested`。盲検（質問だけを別の主体に渡す）の実行後に記録する。導出オブジェクトの別主体による照合も、実施後に記録する。
+6. **名前**: 既存の名前（リポジトリ `kcai-un-docs`、キー `verified_how` など）は変えない。新しく作るものは miso の名前を使う（AGENTS.md に標準の一段落を追記した）。
+7. 先行例（`dwg7/kcai-survey-training`）は、変換の構造だけを参考にした。内容、種別の対応表、導出節は持ち込んでいない。

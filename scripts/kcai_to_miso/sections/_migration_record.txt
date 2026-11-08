@@ -1,0 +1,6 @@
+- 日付: 2026-11-08。元: `dwg7/kcai-un-docs` main(`knowledge/` の踏み跡 76 件)。
+- 方法: 各踏み跡を、元の front matter(````yaml の囲み)と本文を一字も変えずに、`# /<種別>/<id>` のオブジェクトに収めた(往復検査で復元と一致を確かめる)。種別は新しく決めた(`scripts/kcai_to_miso/kindmap.py`)。
+- 再利用: 先行例(`dwg7/kcai-survey-training` の `scripts/kcai_to_kcaim/`)の変換の構造(parse → render → 往復検査、`--force-migration` の守り)を参考に、作り直した。先行例の survey の内容、種別の対応表、導出節は持ち込んでいない。
+- 状態: 全件 `status: stated`(`syntheses` と「解釈」を含むものは `derived` を併記)、`kcai-status: draft`、`human-review: none`。`verified` は付けていない。
+- 追加: 導出オブジェクト(`/authorities/`、`/procedures/`、`/decision-support/`、`/lexicon/`)と受け入れテストは、この移行で新しく書いた。`status: derived`。
+- 旧名: 旧称 kcaim / KCAIM は miso の旧称。このインスタンスの新しいものは miso の名前を使い、既存の名前(リポジトリ名 `kcai-un-docs`、キー `verified_how` など)は変えない(`/system-record/decision-log`)。
