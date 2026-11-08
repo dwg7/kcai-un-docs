@@ -7483,10 +7483,10 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 - query: 「保護する責任」は、国連の文書でいつ最初に出てきたか。
 - expected: 一つの日付を断定しない。句の初出と概念の初出は違うこと、条件ごとに答えが変わることを述べる。概念の中心は、総会の A/RES/59/314 と A/RES/60/1(2005-09)、安保理の S/RES/1674(2006-04-28)。ICISS 報告への言及の最初は S/PV.4660 の再開部分(2002-12-10)。un-docs の範囲の初出で、国連全体の初出ではないと述べる。
 - requires: /searches/responsibility-to-protect-first-appearance
-- result: untested
+- result: pass
 - missing: なし(想定)
 - freshness: low
-- executor: 未実施
+- executor: 盲検(質問だけを渡した別のサブエージェント。ファイルはテストの節を除いたコピー。2026-11-08)。採点: 作成者(AI)が expected と照合。人による採点は未了
 
 # /acceptance-tests/t2-geospatial-first-appearance
 - status: stated
@@ -7494,10 +7494,10 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 - query: 「geospatial」という語は、un-docs では最初にどの文書に出るか。
 - expected: A/RES/61/111(2006-12-14 採択)の第 48 項。宇宙空間平和利用委員会の議題に「宇宙由来の地理空間データの国際協力」を加える箇所。語ごとに初出が違うこと(remote sensing、geodetic、GIS の略語は S/PV.4319 など)、un-docs の範囲の初出であることを添える。
 - requires: /searches/geospatial-first-appearance
-- result: untested
+- result: pass
 - missing: なし(想定)
 - freshness: low
-- executor: 未実施
+- executor: 盲検(質問だけを渡した別のサブエージェント。ファイルはテストの節を除いたコピー。2026-11-08)。採点: 作成者(AI)が expected と照合。人による採点は未了
 
 # /acceptance-tests/t3-out-of-scope-s-res-2750
 - status: stated
@@ -7505,10 +7505,10 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 - query: S/RES/2750 の内容を教えて。
 - expected: 範囲外だと答える。un-docs の安保理決議は S/RES/2699(2023-10-02)までで、2700 以降は含まれない。内容を推測で埋めず、公式サイト(docs.un.org)で確かめるよう示す。
 - requires: /system-record/instance, /guides/un-docs-reading-guide
-- result: untested
+- result: pass
 - missing: 出典の限界(データが 2023-10 で終わる)
 - freshness: low
-- executor: 未実施
+- executor: 盲検(質問だけを渡した別のサブエージェント。ファイルはテストの節を除いたコピー。2026-11-08)。採点: 作成者(AI)が expected と照合。人による採点は未了
 
 # /acceptance-tests/t4-a-res-69-309
 - status: stated
@@ -7516,10 +7516,10 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 - query: 総会決議 69/309 は、UNLB の地理空間サービスについて何を決めたか。
 - expected: 第 5 項で、サービスの長(D-1)のポストのバレンシアへの移転の検討を、第 70 回会期の再開会期の第 2 部まで先送りした。第 7 項で、地理空間情報システムの集約が現地ミッションの資源削減につながることを確実にするよう、事務総長に要請した。ACABQ は今回は反対しなかった(A/69/839/Add.9 第 50 項)が、総会は承認しなかった。総会の理由は決議の本文から分からない。
 - requires: /readings/a-res-69-309-geospatial-consolidation-and-unlb-service-chief-post
-- result: untested
+- result: pass
 - missing: なし(想定)
 - freshness: medium
-- executor: 未実施
+- executor: 盲検(質問だけを渡した別のサブエージェント。ファイルはテストの節を除いたコピー。2026-11-08)。採点: 作成者(AI)が expected と照合。人による採点は未了
 
 # /acceptance-tests/t5-gis-acronym-first
 - status: stated
@@ -7527,10 +7527,10 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 - query: un-docs で「GIS」という略語が最初に現れる文書は何で、何の文脈か。
 - expected: S/PV.4319(2001-05-14)。OCHA の副緊急援助調整官マカスキー氏が、ギニア・シエラレオネ・リベリアの訪問の勧告として、準地域の体制で戦略的情報(GIS のデータを含む)を交換・分析する仕組みを挙げた中の一語。平和維持活動の GIS ではなく、人道支援の調整のための情報共有。un-docs の範囲の最初に限る。
 - requires: /readings/s-pv-4319-west-africa-humanitarian-gis-recommendation
-- result: untested
+- result: pass
 - missing: なし(想定)
 - freshness: low
-- executor: 未実施
+- executor: 盲検(質問だけを渡した別のサブエージェント。ファイルはテストの節を除いたコピー。2026-11-08)。採点: 作成者(AI)が expected と照合。人による採点は未了
 
 # /acceptance-tests/t6-cartographer-appointment
 - status: stated
@@ -7538,10 +7538,10 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 - query: 国連の事務総長が地図作成官を任命したと書く文書の、最初と最新は何か。
 - expected: un-docs で「地図作成官を任命した」と明記する文書は 1 件で、S/2006/933(配布 2006-12-01、レバノンのシェバア農地の上級地図作成官)。最初で最新と言えるのは、その検索式と un-docs の範囲に限る。広く「境界の技術要員の任命」にすると 1991 年(S/22558、un-docs に無い)。2024 年以降の新しい任命は、確かめた範囲では見つからないが、公式サイトには語で全文を検索する道がなく、網羅ではない。
 - requires: /searches/first-and-latest-cartographer-appointments
-- result: untested
+- result: pass
 - missing: 出典の限界(公式サイトの全文検索がない)
 - freshness: high
-- executor: 未実施
+- executor: 盲検(質問だけを渡した別のサブエージェント。ファイルはテストの節を除いたコピー。2026-11-08)。採点: 作成者(AI)が expected と照合。人による採点は未了
 
 # /acceptance-tests/t7-out-of-scope-evaluation
 - status: stated
@@ -7549,10 +7549,10 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 - query: 国連は、国境画定の支援で、どの加盟国の立場が正しいと判断すべきか。
 - expected: 評価はしない。このインスタンスは、文書に書かれた各国の立場の引きにとどめ、当否の判断を足さない。立場の整理は /syntheses/state-positions-on-un-boundary-assistance を指す。
 - requires: /system-record/agent-contract, /syntheses/state-positions-on-un-boundary-assistance
-- result: untested
+- result: pass
 - missing: 範囲外
 - freshness: low
-- executor: 未実施
+- executor: 盲検(質問だけを渡した別のサブエージェント。ファイルはテストの節を除いたコピー。2026-11-08)。採点: 作成者(AI)が expected と照合。人による採点は未了
 
 # /acceptance-tests/t8-symbols-spv-vs-sres
 - status: stated
@@ -7560,10 +7560,10 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 - query: S/PV、S/RES、S/PRST は、それぞれ何の文書か。安保理の討論で誰が何を述べたかを調べるときは、どれを見るか。
 - expected: S/PV は会合ごとの会議録(発言順の記録)、S/RES は決議、S/PRST は議長声明(決議ではなく、議長が合意を読み上げる)。討論の中身は S/PV を見る。S/RES と S/PRST は結果、S/PV は過程。
 - requires: /guides/un-document-symbols-primer
-- result: untested
+- result: pass
 - missing: なし(想定)
 - freshness: low
-- executor: 未実施
+- executor: 盲検(質問だけを渡した別のサブエージェント。ファイルはテストの節を除いたコピー。2026-11-08)。採点: 作成者(AI)が expected と照合。人による採点は未了
 
 # /acceptance-tests/t9-un80-oict-geospatial-unit
 - status: stated
@@ -7571,10 +7571,10 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 - query: UN80 の改革で、OICT のニューヨークの地理空間情報課の人員は、どう変わるか。
 - expected: 課の人員や所属が直接どう変わるかは、読んだ文書(A/80/400、A/80/605)からは分からない。確かめられたのは、OICT の通常予算のポストが 178 から 152 に減り、その中に地理情報担当官(P-3)1 ポストの廃止が含まれること(小課の区分は未確認)。変わりやすい情報(volatile)なので、最新の予算文書で確かめるよう促す。
 - requires: /syntheses/un80-oict-ungsc-2026-changes-for-geospatial
-- result: untested
+- result: pass
 - missing: 出典の限界
 - freshness: high
-- executor: 未実施
+- executor: 盲検(質問だけを渡した別のサブエージェント。ファイルはテストの節を除いたコピー。2026-11-08)。採点: 作成者(AI)が expected と照合。人による採点は未了
 
 # /acceptance-tests/t10-japan-human-security-scope
 - status: stated
@@ -7582,10 +7582,10 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 - query: 日本政府は、人間の安全保障について、国連で何と言っているか。
 - expected: un-docs の会議録(S/PV と A/PV)で、日本の代表の発言のうち human security を含む 185 文書(1999〜2023 年)の範囲で答える。定義(保護と能力強化、生存・生活・尊厳)、位置づけ(日本外交の柱、主流化、2005 年成果文書第 143 項と 2012 年決議 66/290)、手段(人間の安全保障基金)、使い方(議題ごとの見方)。日本政府の公式な立場の全体ではないと述べる。
 - requires: /searches/japan-statements-on-human-security-in-un-docs
-- result: untested
-- missing: 出典の限界
+- result: partial
+- missing: 出典の限界。回答は定義・基金・使い方を答えたが、2005 年成果文書第 143 項と 2012 年決議 66/290 への結びつけを確認できなかった(実行者は全体を読まず、部分読みだった)
 - freshness: medium
-- executor: 未実施
+- executor: 盲検(質問だけを渡した別のサブエージェント。ファイルはテストの節を除いたコピー。2026-11-08)。採点: 作成者(AI)が expected と照合。人による採点は未了
 
 # /open-questions/single-file-size
 - status: open
@@ -7602,7 +7602,7 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 # /inventory/test-backlog
 - status: open
 - 受け入れテストの盲検の実行と、人による採点の状況:
-  - 受け入れテスト(T1〜T10)の盲検の実行: 未実施。
+  - 受け入れテスト(T1〜T10)の盲検の実行: 2026-11-08 に実施(別のサブエージェント。結果は pass 9、partial 1)。限界: 実行者はファイル全体(約 8,300 行)を読まず、見出し検索と範囲指定で読んだ。採点は作成者(AI)で、人による採点は未了。同じモデル系統の実行で、独立性は限られる。
   - 導出オブジェクトの別主体による照合: 未実施(`/inventory/derived-verification`)。
   - 人(hfu)による確認: 未了。
 
@@ -8000,7 +8000,8 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 
 ## 構成
 
-- `knowledge/`: 踏み跡（一覧は [`knowledge/README.md`](knowledge/README.md)）
+- `miso/un-docs.md`: **正本**（2026-11-08 から）。踏み跡を単一の Markdown（[miso](https://github.com/dwg7/miso)、旧称 kcaim）にまとめたもの。チャット型の AI に添付しても、コードエージェントで編集しても使える。冒頭の `agent-contract` に従う。
+- `knowledge/`: 移行時点の踏み跡の凍結した写し（正本は `miso/un-docs.md`。一覧は [`knowledge/README.md`](knowledge/README.md)）
 - `checks/`: 検索の記録（クエリ、件数、手順）と、再現用の入力
 - `scripts/undocs.py`: un-docs を、記号の正規化・重複除去・合冊除外つきで検索する補助
 - `QUESTIONS.md`: 種の問いの台帳と、hfu への質問
@@ -8203,6 +8204,14 @@ un-docs の抽出テキストは**二次的な写し**。引用する箇所は�
 ## データの読み方
 
 `checks/README.md` を見る。データは `https://huggingface.co/datasets/yuiseki/un-docs/resolve/6cd1cf0/documents.parquet`（409MB、pin した版）。
+
+## 名前について(miso)
+
+**名前について(miso)。**このプロジェクトの親にあたる方法の呼び名は miso(旧称 kcaim / KCAIM)で、同じものを指す。**既存の名前(リポジトリ、ファイル名、キー、URL、パラメータ、スクリプト)は、遡って変えない。**新しく作るものは、miso の名前を使う。ツールは、旧名と新名の**両方を受理**し、書くときは新名を使う。ファイルや機能を実質的に改訂するときは、**編集している行に限り**、名前を新名にしてよい(別のコミットにする)。一斉の置換はしない。判断が分かれるときは、hfu に確かめる。詳しくは、`dwg7/miso` の `MIGRATION.md` を参照。
+
+## miso 版(2026-11-08 から)
+
+踏み跡の**正本は `miso/un-docs.md`**(単一の Markdown。作業の入口はその冒頭の `/system-record/agent-contract`)。`knowledge/` は移行時点の凍結した写しで、正本ではない。新しい踏み跡や訂正は `miso/un-docs.md` に加え、`python3 scripts/check_miso.py` を通す。`scripts/kcai_to_miso/build.py` は正本を上書きするので `--force-migration` が要る。上の kcai の原則(一次資料の転載をしない、AI は `reviewed` 以上にしない、など)は、そのまま守る。
 ````
 
 ## CLAUDE.md
@@ -8282,6 +8291,16 @@ un-docs の抽出テキストは**二次的な写し**。引用する箇所は�
 - 弱めた結論: 活発度の仮説は「支持されない」から「支持する材料は見つからなかった」へ。「制度化された」「間接的なものになる」「追い風」など、根拠より強い言い方を、条件つきに直した。
 - 衛星画像の踏み跡の「加盟国と国連の機関にほぼ二分」は、件数表が無いので「大まかには」に弱め、IAEA を国連の機関と一括りにしない書き方にした。
 - 再現できない値（衛星画像の主体の分け、S/ 文書 113 件の内訳）は、再現できないと本文に書いた。
+
+## 2026-11-08 miso への移行（hfu の決定）
+
+1. **正本を `miso/un-docs.md` に移した。** `knowledge/` の 76 件の踏み跡を、本文と元の front matter を一字も変えずに、単一の Markdown（miso、旧称 kcaim）に収めた。`knowledge/` は凍結した写しで、`scripts/miso_roundtrip_check.py` が復元の一致を確かめる（76/76）。移行の道具 `scripts/kcai_to_miso/build.py` は、正本を上書きするため `--force-migration` を要する。
+2. **全件を一つのファイルに入れる**（約 46 万字、UTF-8 で約 0.8MB）。miso の CONCEPT の未解決の問い（単一ファイルの大きさ）に対する、一つの事例。チャット型の製品で上限を超えるかは未検証（`/open-questions/single-file-size`）。
+3. **実行環境の型は、チャット型とコードエージェント型の両方を宣言した。**
+4. **状態の対応**（hfu 承認）: kcai の `verified_how`（searched-undocs / read-official / mixed / read-only）は、miso の `status: stated` に写し、`verified` は付けない（人の確認がないため）。kcai の `draft` は `kcai-status` に残し、`human-review: none` と併記する。`verified` は、hfu が確認して `reviewed_by` に記録したとき、範囲を限定して付ける。
+5. **受け入れテスト**（T1〜T10）は作ったが、結果は `untested`。盲検（質問だけを別の主体に渡す）の実行後に記録する。導出オブジェクトの別主体による照合も、実施後に記録する。
+6. **名前**: 既存の名前（リポジトリ `kcai-un-docs`、キー `verified_how` など）は変えない。新しく作るものは miso の名前を使う（AGENTS.md に標準の一段落を追記した）。
+7. 先行例（`dwg7/kcai-survey-training`）は、変換の構造だけを参考にした。内容、種別の対応表、導出節は持ち込んでいない。
 ````
 
 # /system-record/questions-original
