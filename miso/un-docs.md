@@ -1527,7 +1527,7 @@ finding:
 - title: 「エージェンシー」（agency）：機関の意味が圧倒的で、行為主体性の用法は 2008 年以降に増える
 - dataset-rev: 6cd1cf0
 - as_of: 2026-10-27
-- updated: 2026-10-27
+- updated: 2026-11-19
 - source: /sources/un-docs, /sources/undocs-site
 - related: /searches/keyword-human-security-in-un-docs, /searches/keyword-nexus-in-un-docs, /guides/un-docs-reading-guide
 
@@ -1545,7 +1545,7 @@ sources:
 authors:
   - hfu の指示のもと、AI が実施・記述。AI 支援あり
 reviewed_by: []
-updated: 2026-10-27
+updated: 2026-11-19
 related: [keyword-human-security-in-un-docs, keyword-nexus-in-un-docs, un-docs-reading-guide]
 ````
 
@@ -1556,11 +1556,11 @@ related: [keyword-human-security-in-un-docs, keyword-nexus-in-un-docs, un-docs-r
 
 `agency` は 16,026 文書（un-docs の約 43%）に出るが、ほとんどは**「機関」**の意味である（専門機関 9,735 文書、人道・援助の機関 1,856、情報機関・法執行機関 1,322、国際原子力機関 2,022、大文字の "the Agency" 1,222）。語の件数は、そのままでは**意味のある指標にならない**。
 
-**行為主体性**（人や集団が自ら選び行動する力、英語の agency の社会科学的な用法）は、高精度の式（"women's agency"、"voice, agency and leadership"、"sense of agency" など）で 59 文書しか当たらず、1,000 文書あたりの文書数は 2005〜09 年に 0.2、2010〜14 年に 0.5、2015〜19 年に 2.5、2020〜23 年に 10.3 と、**2010 年代半ば以降に増える**。ただし式が狭く、実際の使用はこれより多いはずである。
+**行為主体性**（人や集団が自ら選び行動する力、英語の agency の社会科学的な用法）は、高精度の式（"women's agency"、"voice, agency and leadership"、"sense of agency" など）で 51 文書しか当たらず（checks の式をそのまま実行した値。以前書いた 59 は、その式では再現できなかった）、1,000 文書あたりの文書数は 2005〜09 年に 0.2、2010〜14 年に 0.5、2015〜19 年に 2.5、2020〜23 年に 10.3 と、**2010 年代半ば以降に増える**。ただし式が狭く、実際の使用はこれより多いはずである。
 
 - **最初の明確な例**: S/PV.6005（2008-10-29）の「平和と安全保障の領域で、女性の行為主体性の全力をどう引き出せるか」。
 - **文脈**: 女性・平和・安全保障、青年、生存者（紛争関連の性暴力の被害者）、保健（産科瘻孔の決議 A/RES/73/147 の「声、行為主体性、リーダーシップ」）、核兵器への「人間の行為主体性と管理」（S/PV.9381、2023）。
-- **機関の用法と混ざる**: 高精度の式でも、目視で読んだ 16 件のうち 3 件は機関の意味（"collective agency" は集団的な機関、"individual agency turf wars" は各機関の縄張り争い）だった。精度はおよそ 80%。
+- **機関の用法と混ざる**: 高精度の式でも、目視で読んだ 16 件のうち 3 件は機関の意味（"collective agency" は集団的な機関、"individual agency turf wars" は各機関の縄張り争い）だった。この 3 件（S/PV.991、S/PV.6805、A/61/PV.52）は、記録した式の当たりには含まれず、別の式の例である。独立レビューが式の当たりから抜き取った 15 件は、すべて行為主体性の意味だった。したがって、式の精度を「およそ 80%」とは言えず、確かめ直しが要る。S/PV.9381（人間の行為主体性）は、式の外の例である。
 
 ## 詳しく
 
@@ -1588,11 +1588,11 @@ related: [keyword-human-security-in-un-docs, keyword-nexus-in-un-docs, un-docs-r
 
 - `agency` の件数を、行為主体性の議論の広がりとみなす。大半は機関である。
 - 左側の語を限らない広い式で、行為主体性の用法の初出を決める。
-- 狭い式の 59 文書を、行為主体性の用法の全数とみなす。取りこぼしが大きい。
+- 狭い式の 51 文書を、行為主体性の用法の全数とみなす。取りこぼしが大きい。
 
 ## 確かめた度合い
 
-- `searched-undocs`: 件数、語義ごとの式、年別。高精度の式の当たり 16 件を目視で確認した（精度およそ 80%）。
+- `searched-undocs`: 件数、語義ごとの式、年別。高精度の式の当たりを目視で確認した（16 件とした内訳は、記録した式の当たりと一致しない。上記）。
 - 未確認: 行為主体性の用法の全数、社会科学の用語としての初出（un-docs の外）、国別の使用、公式の PDF との突き合わせ。
 
 ## 出典
@@ -1609,7 +1609,7 @@ related: [keyword-human-security-in-un-docs, keyword-nexus-in-un-docs, un-docs-r
 - title: 「人間の安全保障」（human security）：un-docs での初出、広がり、2005 年成果文書と 2012 年総会決議、日本の発言
 - dataset-rev: 6cd1cf0
 - as_of: 2026-10-27
-- updated: 2026-10-27
+- updated: 2026-11-19
 - source: /sources/un-docs, /sources/undocs-site
 - related: /searches/keyword-nexus-in-un-docs, /searches/keyword-agency-in-un-docs, /guides/un-docs-reading-guide
 
@@ -1627,7 +1627,7 @@ sources:
 authors:
   - hfu の指示のもと、AI が実施・記述。AI 支援あり
 reviewed_by: []
-updated: 2026-10-27
+updated: 2026-11-19
 related: [keyword-nexus-in-un-docs, keyword-agency-in-un-docs, un-docs-reading-guide]
 ````
 
@@ -1667,7 +1667,7 @@ related: [keyword-nexus-in-un-docs, keyword-agency-in-un-docs, un-docs-reading-g
 ## 確かめた度合い
 
 - 公式の PDF で確認: S/PV.3514 と S/PV.3778 の発言者（上記）。
-- `searched-undocs`: 件数、年別、系列別、決議の一覧、発言国の見出し判定。A/RES/66/290 第 3 項、60/1 第 143 項、64/291 は un-docs の本文を読んだ（公式の PDF との突き合わせはしていない）。
+- `searched-undocs`: 件数、年別、系列別、決議の一覧、発言国の見出し判定。A/RES/66/290 第 3 項、60/1 第 143 項、64/291 は un-docs の本文を読んだ（2026-11-19 の独立レビューで、A/RES/60/1 第 143 項と A/RES/66/290 第 3 項は公式の PDF と突き合わせ済み。64/291 は未突き合わせ）。
 - 未確認: 人間の安全保障の起源（1994 年の UNDP『人間開発報告書』の位置づけ。un-docs の最初は 1995 年の別の用法）、日本の発言の中身の分類、2012 年の決議が示した定義のその後の使われ方。
 
 ## 出典
@@ -1684,7 +1684,7 @@ related: [keyword-nexus-in-un-docs, keyword-agency-in-un-docs, un-docs-reading-g
 - title: 「ネクサス」（nexus）：意味ごとの分け方、人道・開発・平和のネクサスの広がり、語が使われる場面
 - dataset-rev: 6cd1cf0
 - as_of: 2026-10-27
-- updated: 2026-10-27
+- updated: 2026-11-19
 - source: /sources/un-docs
 - related: /searches/keyword-human-security-in-un-docs, /searches/keyword-agency-in-un-docs, /guides/un-docs-reading-guide
 
@@ -1702,7 +1702,7 @@ sources:
 authors:
   - hfu の指示のもと、AI が実施・記述。AI 支援あり
 reviewed_by: []
-updated: 2026-10-27
+updated: 2026-11-19
 related: [keyword-human-security-in-un-docs, keyword-agency-in-un-docs, un-docs-reading-guide]
 ````
 
@@ -1711,18 +1711,18 @@ related: [keyword-human-security-in-un-docs, keyword-agency-in-un-docs, un-docs-
 
 > 範囲: un-docs ＝ 総会と安保理の英語文書、安保理決議は 2699 まで。以下は un-docs で見つかった範囲の話である。
 
-`nexus` は 834 文書に出るが、**意味が一つではない**。1,000 文書あたりの文書数は 1995〜99 年に 3.5、2000〜04 年に 11.6、2010〜14 年に 29.8、2015〜19 年に 58.7、2020〜23 年に 81.7 と、右肩上がりに増える。1958〜1986 年の 9 文書は、「関連」という普通の英語の比喩的な用法である。
+`nexus` は 834 文書に出るが、**意味が一つではない**。1,000 文書あたりの文書数は 1995〜99 年に 3.5、2000〜04 年に 11.6、2010〜14 年に 29.8、2015〜19 年に 58.7、2020〜23 年に 81.7 と、右肩上がりに増える。1958〜1986 年の 9 文書（日付のある 8 文書と、日付のない A/PV.1643 の 1 文書）は、「関連」という普通の英語の比喩的な用法である。
 
 意味ごとに分けると、増加を牽引したのは**人道・開発・平和のネクサス**である。
 
 | 意味 | 文書数 | 初出（S/INF を除く） | 広がり |
 |---|---|---|---|
-| 人道・開発・平和（トリプル・ネクサスを含む広い式） | 187 | S/2012/42（2012-01-18）。安保理決議では S/RES/2065 (2012)、2097 (2013) | 2010〜14: 5、2015〜19: 48、2020〜23: 134 |
+| 人道・開発・平和（トリプル・ネクサスを含む広い式。ただし広い式は「平和・安全保障・開発」のネクサスも拾う） | 187（狭い式では 147） | 狭い式の初出は S/PV.7561（2015-11-17、トルコの発言）。安保理決議で明示されるのは S/RES/2612 (2021)、2656 (2022)。S/2012/42、S/RES/2065 (2012)、2097 (2013) は、公式の原文では人道を含まない「平和・安全保障・開発」のネクサス（シエラレオネ）で、この語義の初出ではない | 広い式: 2010〜14: 5（狭い式では 0）、2015〜19: 48（狭い式 34）、2020〜23: 134（狭い式 113） |
 | 安全保障（平和）と開発 | 141 | S/PV.4081 (Resumption 1)（1999-12-15） | 2015〜19 年に 70 |
-| テロと組織犯罪・薬物（粗い式） | 86 | A/55/PV.79（2000-12-01） | 2015〜19 年に 30 |
+| テロと組織犯罪・薬物（粗い式） | 86 | A/55/PV.79（2000-12-01）。ただしこの nexus は紛争ダイヤモンドと武器取引の話で、テロの意味ではない。テロの意味の初出の候補は S/PV.4845 (Resumption 1)（2003-10-16）。式は checks に全文がなく、再現できていない | 2015〜19 年に 30 |
 | 気候と安全保障 | 40 | S/PV.5663 (Resumption 1)（2007-04-17） | 2020〜23 年に 31 |
-| 水・エネルギー・食料 | 4 | A/63/PV.36（2008） | ほとんど出ない |
-| 上記以外（国際移住と開発、平和維持と平和構築、紛争関連の性暴力など） | 約 480 | | |
+| 水・エネルギー・食料（狭い式） | 4 | S/PV.7818（2016-11-22）。A/63/PV.36（2008）は「食料安全保障・気候変動・持続可能な開発・農業」のネクサスの例で、この語義ではない | ほとんど出ない |
+| 上記以外（国際移住と開発、平和維持と平和構築、紛争関連の性暴力など） | 約 480（分類は重なるので、合計は 834 にならない。式は checks になく、再現できていない） | | |
 
 水・エネルギー・食料のネクサスが、総会・安保理の文書にほとんど出ないことは、一般に「ネクサス」から連想される使い方とずれる。
 
@@ -1739,7 +1739,7 @@ related: [keyword-human-security-in-un-docs, keyword-agency-in-un-docs, un-docs-
 
 ### 決議での扱い
 
-人道・開発・平和のネクサスは、安保理決議に S/RES/2065 (2012) 以降に出るが、定着は 2015 年以降の会議録と事務総長報告（S/yyyy/n）が中心で、決議・議長声明に出る例は少ない（S/RES 4、S/PRST 2）。
+人道・開発・平和のネクサスは、安保理決議で明示されるのは S/RES/2612 (2021) と 2656 (2022) の 2 本である（S/RES/2065 と 2097 は、人道を含まない「平和・安全保障・開発」のネクサス）。定着は 2015 年以降の会議録と事務総長報告（S/yyyy/n）が中心で、決議・議長声明に出る例は少ない（S/RES 4、S/PRST 2）。
 
 ### 地理空間の語とのつながり
 
@@ -1748,7 +1748,7 @@ related: [keyword-human-security-in-un-docs, keyword-agency-in-un-docs, un-docs-
 ## よくあるまちがい
 
 - `nexus` の件数の増加を、一つの概念の広がりとみなす。意味が複数あり、増加の大半は人道・開発・平和のネクサスと「関連」を表す普通の使い方による。
-- 水・エネルギー・食料のネクサスを、国連の主要な議論とみなす。un-docs では 4 文書にとどまる。
+- 水・エネルギー・食料のネクサスを、国連の主要な議論とみなす。un-docs（総会・安保理）では 4 文書にとどまる。
 - 区切りを必須にした式で数える。OCR で区切りの落ちた綴りを取りこぼす。
 
 ## 確かめた度合い
@@ -1759,7 +1759,7 @@ related: [keyword-human-security-in-un-docs, keyword-agency-in-un-docs, un-docs-
 ## 出典
 
 - yuiseki/un-docs（コミット 6cd1cf0）。式は `checks/keywords-human-security-nexus-agency.md`
-- S/2012/42、S/RES/2065 (2012)、S/RES/2097 (2013)、S/PV.7351、S/PV.7389、S/PV.7533、S/PV.7793、S/PV.7847（`https://docs.un.org/en/<記号>`）
+- S/2012/42、S/RES/2065 (2012)、S/RES/2097 (2013)、S/RES/2612 (2021)、S/RES/2656 (2022)、S/PV.7561、S/PV.7818、S/PV.7351、S/PV.7389、S/PV.7533、S/PV.7793、S/PV.7847（`https://docs.un.org/en/<記号>`）
 
 # /searches/mission-budgets-geospatial-output-lines
 - status: stated
@@ -7901,6 +7901,9 @@ McAskie 氏（会合録の見出しは Ms. McAskie、肩書は Deputy Emergency 
 - status: stated
 - scope: 移行(2026-11-08)の後に、正本で直した踏み跡の記録。`knowledge/`(凍結した写し)とは、ここに挙げた踏み跡だけが一致しなくなる。往復検査は、挙げられた踏み跡の不一致を「改訂済み」として扱う。
 - revised: un80-oict-ungsc-2026-changes-for-geospatial (2026-11-19、独立レビュー H3: データセンター数の年、配布日、二つの 2026 年の額、ACABQ の項番)
+- revised: keyword-nexus-in-un-docs (2026-11-19、独立レビュー H1: 人道・開発・平和のネクサスの初出、水・エネルギー・食料、テロ・組織犯罪、件数の注)
+- revised: keyword-agency-in-un-docs (2026-11-19、独立レビュー H1: 高精度の式の文書数 59→51、精度の注)
+- revised: keyword-human-security-in-un-docs (2026-11-19、独立レビュー H1: 公式の PDF との突き合わせ済みの箇所)
 - revised: un-open-gis-initiative-member-state-links (2026-11-19、独立レビュー H3: S/PV.7802 の表現、共同議長、「資料の厚み」)
 
 # /system-record/path-map
