@@ -78,3 +78,4 @@
 
 - 正本が `miso/un-docs.md` なので、レビューの反映は正本に行い、`knowledge/` は直さない。直した踏み跡は `/system-record/post-migration-revisions` に記録し、往復検査は「改訂済み」として許容する。
 - H1(キーワード 3 本。nexus の人道・開発・平和の初出の誤りを含む)、H2(日本の発言と agency の分類。日本が議長のときの発言の見落としを含む。件数の再集計は未了)、H3(UN80 と UN Open GIS)の指摘を反映した（記録は `checks/reviews/review-H3.md`）。H2(日本の発言、agency の分類)は実行中で、戻り次第、同じ方法で反映する。
+- 日本の「人間の安全保障」の発言を再集計した（H2 の指摘）。195 文書・382 出現（元は 185・361）。`scripts/country_segments.py` に `--wide-heading` と `--president-hat` を足した（既定の動作は変えていない）。本文の読みと主題語の表は元の 185 文書に基づくままで、追加の 10 文書の全文の読みと表の再計算は未了。

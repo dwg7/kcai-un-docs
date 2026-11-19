@@ -50,3 +50,10 @@ un-docs（6cd1cf0）、`scripts/undocs.py`（記号を正規化、合冊除外�
 
 ## 地理空間の語との重なり（式 `(?i)geo-?\s?spatial|geographic(?:al)?\s+information|\bGIS\b|remote[\s-]+sensing|earth[\s-]+observation|satellite\s+imagery`）
 同じ文書に両方が出る数: human security 23、nexus 29（うち人道・開発・平和 8）、行為主体性 2。偶然の同居が多く、内容のつながりは読んでいない。
+
+## 日本の発言の再集計（2026-11-19）
+
+- 式: `(?i)human[\s-]+security`（`human\s+security` だと 184 文書・359 出現で、ハイフン形が落ちる）。
+- 元の集計（見出し "(Japan)" のみ）: `python3 -I scripts/country_segments.py DATA.parquet Japan '(?i)human[\s-]+security'` → 185 発言・185 文書・361 出現。
+- 再集計: 同じコマンドに `--wide-heading --president-hat` を付ける → 195 発言・195 文書・382 出現（追加は、括弧の長い見出しの A/74/PV.41 の 4 出現と、日本が安保理議長のときの国としての発言 9 文書・17 出現）。一覧は `checks/japan-human-security-statements.tsv`（`kind` 列）。
+- 追加の 10 文書は、他国の発言の誤帰属ではなく、日本分の見落とし。
