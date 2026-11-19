@@ -19,17 +19,20 @@ def objects(text):
         elif cur is not None: cur.append(ln)
     return ["\n".join(o) for o in out]
 def main():
-    ok = bad = 0; seen = set()
-    for o in objects(MS.read_text(encoding="utf-8")):
+    ok = bad = rev = 0; seen = set()
+    mtext = MS.read_text(encoding="utf-8")
+    revised = set(re.findall(r"(?m)^- revised: (\S+)", mtext))
+    for o in objects(mtext):
         m = re.search(r"^- origin-file: (knowledge/[^\n]+\.md)$", o, re.M)
         f = re.search(r"<!-- kcai front matter \(verbatim\) -->\n````yaml\n(.*?)````\n\n(.*)\Z", o, re.S)
         if not (m and f): continue
         rebuilt = "---\n" + f.group(1).rstrip("\n") + "\n---\n" + f.group(2)
         seen.add(m.group(1)); orig = ROOT / m.group(1)
         if orig.exists() and orig.read_text(encoding="utf-8").rstrip("\n") == rebuilt.rstrip("\n"): ok += 1
+        elif Path(m.group(1)).stem in revised: rev += 1; print("改訂済み(許容)", m.group(1))
         else: bad += 1; print("DIFF/MISSING", m.group(1))
     allk = {str(p.relative_to(ROOT)) for p in (ROOT / "knowledge").glob("*.md") if p.name != "README.md"}
     for miss in sorted(allk - seen): bad += 1; print("NOT IN MISO", miss)
-    print(f"--- 一致 {ok} / 不一致 {bad} / knowledge 側 {len(allk)} 件")
+    print(f"--- 一致 {ok} / 改訂済み {rev} / 不一致 {bad} / knowledge 側 {len(allk)} 件")
     return 1 if bad else 0
 if __name__ == "__main__": sys.exit(main())

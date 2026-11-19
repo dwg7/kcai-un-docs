@@ -5,6 +5,7 @@ un-docs（6cd1cf0）、`scripts/undocs.py`。
 | 式 | 文書数 | 注 |
 |---|---|---|
 | `(?i)open\s+GIS` | 0 | Initiative の名称は un-docs に無い |
+| `(?i)open\s+geographic\s+information` | 0 | A/71/19 第 53 項と A/72/19 第 52 項が使う正式名 "Open Geographic Information System Initiative" は un-docs の抽出本文では当たらない（2026-11-19 の独立レビュー H3 で確認。公式の PDF では存在する） |
 | `(?i)partnership\s+for\s+technology\s+in\s+peacekeeping` | 8 | S/PV.7802、8521、8534、8838、9181(Resumption 1)、S/2021/501、S/2021/732、S/2021/868 |
 | `(?i)GeoSDI\|OpenGDS\|KRIHS\|Boundless\|GeoSHAPE\|Politecnico\|OSGeo\|QGIS\|open[- ]source\s+(GIS\|geospatial)` | 103 | 先頭は 1948 年の S/PV。`QGIS` ではなく `Boundless` などの普通の英語（boundless）に当たる偽陽性が大半。文脈は読んでいない |
 | `(?i)technology\s+(and\s+peacekeeping\s+)?symposium` | 0 | |
